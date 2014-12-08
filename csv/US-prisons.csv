@@ -1,0 +1,542 @@
+state,type,name,city,industries,categories,Address,x,y
+Alabama,Federal,FCI Talladega,Talladega,Clothing; textiles,clothing,"565 EAST RENFROE ROAD, TALLADEGA, AL  35160",-86.14319206,33.42488361
+Alabama,Federal,FPC Montgomery,Montgomery,Services,none,"MAXWELL AIR FORCE BASE, Montgomery, AL 36112",-86.30062589,32.3801235
+Alabama,State,Draper Correctional Facility,Elmore,Vehicle maintenance; furniture; millwork,furniture,"2828 Alabama 143, Elmore, AL 36025",-86.33744845,32.57590813
+Alabama,State,Fountain Correctional Facility,Atmore,Vehicle maintenance,none,"9677 Alabama 21, Atmore, AL 36502",-87.46365202,31.15658977
+Alabama,State,Holman Correctional Facility,Atmore,License plates; sewing,plates,"1240 Ross Rd, Atmore, AL 36502",-87.45176792,31.13612473
+Alabama,State,Julia Tutwiler Prison for Women,Wetumpka,Sewing,none,"8966 US Highway 231, Wetumpka, AL 36092",-86.19437366,32.56381639
+Alabama,State,Kilby Correctional Facility,Montgomery,Printing; graphic arts; engraving,metal,"12201 Wares Ferry Rd, Montgomery, AL 36117",-86.10412745,32.38587725
+Alabama,State,St. Clair Correctional Facility,Springville,Janitorial chemicals; upholstery; furniture restorage; modular office systems,furniture,"1000 St Clair Rd, Springville, AL 35146",-86.38575053,33.74306785
+Alabama,State,Ventress Correctional Facility,Clayton,Seating,none,"379 Alabama 239, Clayton, AL 36016",-85.48988239,31.88516847
+Arizona,Federal,FCC Tucson,Tucson,Electronics recycling,recycle,"8901 S. WILMOT ROAD, TUCSON, AZ  85756",-110.8579282,32.08901079
+Arizona,Federal,FCI Phoenix,Phoenix,Electronics; fleet management; recycling collection,recycle,"37900 N 45TH AVE, PHOENIX, AZ  85086",-112.1561628,33.87225376
+Arizona,Federal,FCI Safford,Safford,Clothing; textiles,clothing,"1529 WEST HIGHWAY 366, SAFFORD, AZ  85546",-109.7220823,32.72210152
+Arizona,State,Arizona State Prison Complex - Douglas,Douglas,Sewing; canning,none,"6911 N Bdi Blvd, Douglas, AZ 85607",-109.595634,31.45492235
+Arizona,State,Arizona State Prison Complex - Eyman,Florence ,Bakery; boxes; bags; boots; license plates,"food,plates","4374 E Butte Ave, Florence, AZ 85132",-111.3405073,33.02812624
+Arizona,State,Arizona State Prison Complex  - Florence ,Florence ,Metal fabrication; farm; warehousing; recycling; fish farm; mattresses; upholstery; call center,"call-center,furniture,metal,recycle","1305 E Butte Ave, Florence, AZ 85132",-111.37215,33.03122917
+Arizona,State,Arizona State Prison Complex  - Kingman ,Golden Valley,Trailer fabrication,none,"4626 W. English Dr., Golden Valley, AZ 86414",-114.1755792,35.03255272
+Arizona,State,Arizona State Prison Complex  - Lewis,Buckeye,Tractor-trailer repair; truss manufacturing; tire remanufacturing; specialty glass recycling; call center,"call-center,recycle","26700 South Highway 85, Buckeye, AZ 85326",-112.6519071,33.19710401
+Arizona,State,Arizona State Prison Complex  - Marana,Marana,Office furniture manufacturing,furniture,"12610 W. Silverbell Rd, Marana, AZ 85653",-111.2528071,32.41920521
+Arizona,State,Arizona State Prison Complex  - Perryville,Goodyear,Print shop; sewing; call center; egg farm,"call-center,food","2105 North Citrus Road, Goodyear, AZ 85395",-112.4441223,33.47058067
+Arizona,State,Arizona State Prison Complex  - Phoenix West,Phoenix,Installation,none,"3402 West Cocopah, Phoenix, AZ 58009",-112.1317539,33.43210817
+Arizona,State,Arizona State Prison Complex  - Safford,Safford,Farming,none,"896 S. Cook Road, Safford, AZ 85546",-109.5624482,32.83092871
+Arizona,State,Arizona State Prison Complex  - Tucson,Tucson,Sign shop; call center,call-center,"10000 South Wilmot, Tucson, AZ 85734",-110.8580123,32.07533206
+Arizona,State,Arizona State Prison Complex  - Winslow,Winslow,Farming; construction,none,"2100 South Highway 87, Winslow, AZ 86047",-110.7145985,34.98505683
+Arizona,State,Arizona State Prison Complex  - Yuma,San Luis,Call center; waste recycling,"call-center,recycle","7125 East Juan Sanchez Blvd, San Luis, AZ 85365",-114.7302883,32.49471362
+Arkansas,Federal,FCC Forrest City,Forrest City,Office furniture,furniture,"1400 DALE BUMPERS ROAD, FORREST CITY, AR  72335",-90.80496211,34.97942714
+Arkansas,State,Cummins Unit,Auburn,Garment; vinyl,clothing,"34.053182, -91.584969",-91.584969,34.053182
+Arkansas,State,Grimes Unit,Newport,Coffee and tea packaging,none,"300 Corrections Drive Newport, AR 72112",-91.1908265,35.62598669
+Arkansas,State,J. Aaron Hawkins Sr. Center,Wrightsville,Coreless toilet paper,none,"34.603783, -92.192643",-92.192643,34.603783
+Arkansas,State,McPherson Unit,Pine Bluff,Wire harnesses,none,"302 Corrections Drive Newport, AR 72112",-91.19080752,35.62598684
+Arkansas,State,Tucker Unit,Tucker,Metal fabrication; chairs; upholstery,"furniture,metal","2400 State Farm Rd, Tucker, AR 72168",-91.91558896,34.4507257
+Arkansas,State,Wrightsville Unit,Wrightsville,Furniture; graphic arts,furniture,"34.601824, -92.192285",-92.192285,34.601824
+California,Federal,FCC Victorville,Victorville,Electronics; fleet management,none,"13777 AIR EXPRESSWAY BLVD, VICTORVILLE, CA  92394",-117.3483687,34.5686141
+California,Federal,FCI Dublin,Dublin,Recycling collection; services,recycle,"5701 8TH ST, DUBLIN, CA  94568",-121.9053144,37.71616742
+California,Federal,FCI Lompoc,Lompoc,Services,none,"3600 GUARD ROAD, LOMPOC, CA  93436",-120.4972247,34.67826251
+California,Federal,FCI Terminal Island,San Pedro,Office furniture,furniture,"1299 SEASIDE AVENUE, SAN PEDRO, CA  90731",-118.2687219,33.72954743
+California,Federal,USP Atwater,Atwater,Electronics recycling,recycle,"1 FEDERAL WAY, ATWATER, CA  95301",-120.5591782,37.38299538
+California,State,Avenal State Prison,Avenal,Poultry; egg production; furniture;  laundry; support services; construction services; facilities maintenance,"food,furniture","#1 Kings Way, Avenal, CA  93204",-120.1387423,36.00253024
+California,State,California Correctional Center,Susanville,Construction services; facilities maintenance,none,"711-045 Center Rd., Susanville, CA 96127-0790",-120.5856263,40.39724142
+California,State,California Correctional Institution,Tehachapi,Fabric products; support services; construction services; facilities maintenance,none,"24900 Highway 202, Tehachapi, CA 93561 ",-118.5741504,35.12585916
+California,State,"California Health Care Facility, Stockton",Stockton,Construction services; facilities maintenance,none,"7707 Austin Road, Stockton, CA 95215",-121.1838008,37.89944088
+California,State,California Institution for Men,Chino,Laundry; food packaging; beverage packaging; support services,food,"14901 Central Avenue, Chino, CA 91710 ",-117.6889435,33.98268313
+California,State,California Institution for Women,Chino,Fabric products; construction services; facilities maintenance,none,"16756 Chino-Corona Road, Corona, CA 92880",-117.5750366,33.87789215
+California,State,California Medical Facility,Vacaville,Construction services; facilities maintenance,none,"1600 California Dr., Vacaville, CA 95696",-121.9800832,38.33327807
+California,State,California Men's Colony,Represa,Knitting mill; fabric products; shoes; printing; laundry; support services; construction services; facilities maintenance,clothing,"35.324969, -120.694262",-120.694262,35.324969
+California,State,California Rehabilitation Center,Norco,Construction services; facilities maintenance,none,"33.929034, -117.573229",-117.573229,33.929034
+California,State,"California State Prison, Corcoran",Corcoran,Dairy; food packaging; beverage packaging; laundry; support services; construction services; facilities maintenance,food,"4001 King Avenue, Corcoran, CA 93212",-119.5576721,36.06506561
+California,State,"California State Prison, Los Angeles County",Lancaster,Cleaning products; laundry; support services,none,"44750 60th Street West, Lancaster, CA 93536-7620",-118.236593,34.69135215
+California,State,"California State Prison, Sacramento ",Represa,Laundry; construction services; facilities management,none,"100 Prison Road, Represa, CA 95671",-121.15125,38.696515
+California,State,"California State Prison, Solano ",Vacaville,Metal products; bindery; laundry; optical; support services; construction services; facilities maintenance,"metal,optical","2100 Peabody Road, Vacaville, CA 95696 ",-121.9704816,38.32338333
+California,State,"California Substance Abuse Treatment Facility and State Prison, Corcoran",Corcoran,Food packaging; beverage packaging; construction services; facilities maintenance,food,"900 Quebec Avenue, Corcoran, CA 93212",-119.5591878,36.05081812
+California,State,Calipatria State Prison,Calipatria,Construction services; facilities maintenance,none,"7018 Blair Road, Calipatria, CA  92233",-115.4931572,33.16336182
+California,State,Centinela State Prison,Imperial,Fabric products; construction services; facilities management,none,"2302 Brown Road, Imperial, CA 92251 ",-115.5695157,32.84748395
+California,State,Central California Women's Facility,Chowchilla,Crops; fabric products; dental lab; laundry; support services,food,"23370 Road 22, Chowchilla, CA 93610",-120.1471241,37.0907608
+California,State,Chuckawalla Valley State Prison ,Blythe,Laundry; construction services; facilities management,none,"19025 Wiley's Well Rd., Blythe, CA 92225 ",-114.9034087,33.59723009
+California,State,Correctional Training Facility,Soledad,Furniture; fabric products; support services; construction services; facilities management,furniture,"36.468348, -121.382833",-121.382833,36.468348
+California,State,Deuel Vocational Institution ,Tracy,Dairy; support services; construction services; facilities maintenance,food,"23500 Kasson Road, Tracy, CA 95376 ",-121.3390525,37.74524765
+California,State,Folsom State Prison ,Represa,Metal products; metal signs; license plates; printing; modular building construction; digital services; support services,"plates,metal","300 Prison Road, Represa, CA 95671",-121.163716,38.696149
+California,State,High Desert State Prison,Susanville,Construction services; facilities maintenance,none,"475-750 Rice Canyon Rd., Susanville, CA 96127 ",-120.6497186,40.41567286
+California,State,Ironwood State Prison,Blythe,Construction services; facilities maintenance,none,"19005 Wiley's Well Road, Blythe, CA 92225",-114.9020332,33.60530331
+California,State,Kern Valley State Prison,Delano,Construction services; facilities maintenance,none,"3000 West Cecil Avenue, Delano, CA 93216",-119.3031863,35.77585279
+California,State,Mule Creek State Prison,Ione,Meat cutting; coffee roasting; fabric products; laundry; construction services; facilities management,food,"4001 Highway 104, Ione, CA 95640 ",-120.9570293,38.36788415
+California,State,North Kern State Prison,Delano,Construction services; facilities maintenance,none,"2737 West Cecil Avenue, Delano, CA 93215",-119.3103182,35.77580883
+California,State,Pelican Bay State Prison,Crescent City,Laundry; construction services; facilities management,none,"5905 Lake Earl Drive, Crescent City, CA 95531",-124.1599432,41.84793092
+California,State,Pleasant Valley State Prison ,Coalinga,Construction services; facilities maintenance,none,"24863 West Jayne Avenue, Coalinga, CA 93210",-120.2203251,36.13735634
+California,State,Richard J. Donovan Correctional Facility ,San Diego,Bakery; shoes; laundry; support services; construction services; facilities maintenance,"clothing,food","480 Alta Road, San Diego, CA 92179",-116.9190446,32.57880973
+California,State,Salinas Valley State Prison,Soledad,Construction services; facilities maintenance,none,"31625 Highway 101, Soledad, CA 93960",-121.3187403,36.40752139
+California,State,San Quentin State Prison ,San Quentin,Furniture; mattress; support services,furniture,"37.939551, -122.489815",-122.489815,37.939551
+California,State,Sierra Conservation Center ,Jamestown,Fabric products; construction services; facilities maintenance,none,"5100 O'Byrnes Ferry Road, Jamestown, CA 95327",-120.5372365,37.88797397
+California,State,Valley State Prison for Women,Chowchilla,Laundry; optical; support services,optical,"21633 Avenue 24, Chowchilla, CA 93610",-120.1631789,37.09816767
+California,State,Wasco State Prison - Reception Center ,Wasco,Laundry; construction services; facilities maintenance,none,"701 Scofield Avenue, Wasco, CA 93280 ",-119.4026674,35.59394038
+Colorado,Federal,FCC Florence,Florence ,Office furniture,furniture,"5880 HWY 67 S, FLORENCE, CO  81226",-105.1071052,38.35852084
+Colorado,Federal,FCI Englewood,Littleton,Clothing; textiles; recycling collection,"clothing,recycle","9595 WEST QUINCY AVENUE, LITTLETON, CO  80123",-105.1047407,39.63871746
+Colorado,State,Arkansas Valley Correctional Facility,Ordway,Computer design; GIS; customer service center; fulfillment center; modular office systems; plastic bags; public information services; web design,plastic-bags,"12750 Highway 96, Crowley, CO 81033",-103.8620039,38.19050731
+Colorado,State,Arrowhead Correctional Center,Canon City,Canteen; fish farming; fishing rod manufacturing; fleet services; greenhouse products; honey production; K-9 adoption; tractor refurbishing; warehouse,none,"57500 E US Highway 50, Ca–on City, CO 81212",-105.1922886,38.44730878
+Colorado,State,Buena Vista Correctional Center,Buena Vista,Firefighting; reclamation; fish farming; K-9 training; leather products; trails program,none,"15125 Hwy 24, Buena Vista, CO 81211",-106.2007612,38.94991402
+Colorado,State,CCi Oakland Facility,Denver,Computer design; customer service delivery; Ebay sales; forms distribution; janitorial; office assistance; surplus sales,none,"4999 Oakland Street, Denver, CO 80239",-104.8507167,39.78761071
+Colorado,State,Colorado Correctional Center,Golden,Collision repair; CSP training Academy garage; CSP training Academy kitchen; CSP training Academy maintenance; delivery; highway barrier fencing; highway cleanup; highway mowing,none,"15445 S Golden Rd, Golden, CO 80401",-105.1729495,39.73395973
+Colorado,State,Colorado Territorial Correctional Facility,Canon City,License plates; tabs; motorcycle manufacturing; signs,plates,"275 U.S. 50, Ca–on City, CO 81212",-105.2694991,38.48462396
+Colorado,State,Delta Correctional Center,Delta,Farming,none,"4102 E10 Rd, Delta, CO 81416",-108.1571097,38.71323052
+Colorado,State,Denver Women's Correctional Facility,Denver,Canteen; garments; K-9 adoptions; printing services; TV manufacturing,clothing,"3600 Havana St, Denver, CO 80239",-104.8657747,39.76615752
+Colorado,State,Four Mile Correctional Center,Canon City,Bucking bull housing; composting; dairy; heavy equipment; K-9 training; water buffalo dairy; wild horse inmate program,food,"57500 E US Highway 50, Ca–on City, CO 81212",-105.1922886,38.44730878
+Colorado,State,Fremont Correctional Facility,Canon City,Dormitory furniture; fiberglass tanks; garments; metal fabrication; office furniture; security cells,"clothing,furniture,metal","E US Highway 50 Evans Blvd, Ca–on City, CO 81215",-105.2381365,38.4406423
+Colorado,State,La Vista Correctional Facility,Pueblo,Administrative services; construction; maintenance services; farming; information technology,none,"1401 W 17th St, Pueblo, CO 81003",-104.616346,38.28011959
+Colorado,State,Limon Correctional Facility,Limon,Embroidery; screen printing; flags; garments,clothing,"49030 Colorado 71, Limon, CO 80826",-103.6955657,39.21593028
+Colorado,State,Rifle Correctional Center,Rifle,Culinary arts; firefighting; reclamation; trails program,none,"200 County Road 219, Rifle, CO 81650",-107.7812431,39.65117011
+Colorado,State,Skyline Correctional Center,Canon City,Delivery; farming; fire fighting; reclamation; goat dairy; dairy processing; heavy equipment; orchard; vineyard; recycling,"food,recycle","600 Evans Rd, Ca–on City, CO 81215",-105.1558134,38.4478618
+Colorado,State,Sterling Correctional Facility,Sterling,K-9 training; seating,none,"12101 Colorado 61, Sterling, CO 80751",-103.1574293,40.61378409
+Colorado,State,Trinidad Correctional Facility,Model,Air filters; K-9 adoption and training,none,"21000 U.S. 350, Model, CO 81059",-104.3122706,37.29121136
+Connecticut,Federal,FCI Danbury,Danbury,Electronics; fleet management,none,"33 1/2 Pembroke Rd, Danbury, CT 06811",-73.47332849,41.43878325
+Connecticut,State,Cheshire Correctional Institution,Cheshire,Plastic bags; sign shop; graphic arts,plastic-bags,"900 Highland Ave, Cheshire, CT 06410",-72.89674158,41.52246572
+Connecticut,State,MacDougall-Walker Correctional Institution,South Suffield,Metal shop; wood shop; upholstery shop,"furniture,metal","1153 East Street, South Suffield, CT 06080 ",-72.62825532,41.94826969
+Connecticut,State,Osborn Correctional Institution,Somers,Print shop; laundry; textiles; embroidery; finished goods warehouse,none,"100 Bilton Rd, Somers, CT 06071",-72.50072778,42.03150193
+Connecticut,State,York Correctional Institution,Niantic,Textiles,none,"201 W Main St, Niantic, CT 06357",-72.23322775,41.31919241
+Delaware,State,James T. Vaughn Correctional Center,Smyrna,Auto repair; garments; print shop; sign shop; furniture repair; furniture manufacturing; upholstery; silk screen; office systems; embroidery; metal shop; concrete plant,"clothing,metal,furniture","1181 Paddock Road, Smyrna, DE 19977",-75.604405,39.339147
+Florida,State,Apalachee Correctional�Institution,Sneads,Cattle; bedding supplies; warehousing,food,"52 W Unit Dr, Sneads, FL 32460",-84.885904,30.712311
+Florida,State,Avon Park Correctional Institution,Avon Park,Tire retreading; sanitary maintenance; chemicals; brooms,,"8100 Highway 64 East, Avon Park, Florida 33825",-81.553331,27.595787
+Florida,State,Baker Correctional Institution,Sanderson,Traffic paint; culinary arts,,"20706 U.S. Highway 90 West, Sanderson, Florida 32087-2359",-93.114089,30.232529
+Florida,State,Homestead Correctional Institution,Florida City,Optical lab,optical,"19000 S.W. 377th Street, Florida City, Florida 33034-6409",-80.500516,25.41317
+Florida,State,Calhoun Correctional Institution,Blountstown,Graphics; commercial printing; mailing center; image verification,,"19562 SE Institution Dr., Blountstown, Florida 32424-5156",-85.06345,30.407206
+Florida,State,Cross City Correctional Institution,Cross City,Sales support; bids; image verification,,"568 N.E. 255th Street, Cross City, Florida 32628",-83.099136,29.631423
+Florida,State,Glades Correctional Institution (formerly),Belle Glade,Sugarcane; crops,food,"2600 N Main St, Belle Glade, FL 33430",-80.66794,26.721238
+Florida,State,Hendry Correctional Institute (formerly),Immokalee,Cattle; citrus,food,"31101 Nafi Dr, Immokalee, FL 34142",-81.261419,26.304339
+Florida,State,Liberty Correctional Institution,Bristol,Digital services; scanning; digitizing; indexing; image verification,,"11064 N.W. Dempsey Barron Road, Bristol, Florida 32321-9711",-84.97575,30.432141
+Florida,State,Lowell Correctional Institution,Ocala,Sewn products; uniforms; cutting; distribution; sewn product administration; corrugated boxes; culinary arts,"clothing,food","11120 NW Gainesville Rd., Ocala, Florida 34482-1479",-82.198363,29.311124
+Florida,State,Marion Correctional Institution,Ocala,Sewn products; uniforms; cutting; distribution; sewn product administration; corrugated boxes; culinary arts,"clothing,food","3269 NW 105th Street, Ocala, Florida 34475",-82.17962,29.304306
+Florida,State,Madison Correctional Institution,Madison,Footwear,clothing,"382 Southwest MCI Way, Madison, Florida 32340",-83.423873,30.443414
+Florida,State,Florida State Prison � West Unit,Raiford,Sewn products; uniforms,clothing,"7819 N.W. 228th Street, Raiford, Florida 32026-3000",-82.241233,30.064634
+Florida,State,Polk Correctional Institution,Polk City,IT support; chairs; office furniture; furniture administration,furniture,"10800 Evans Road, Polk City, Florida 33868-6925",-81.785165,28.18847
+Florida,State,South Bay Correctional Facility,South Bay,Graphics; printing,,"600 U.S. Highway 27 South, South Bay, Florida 33493-2233",-80.720255,26.657979
+Florida,State,Sumter Correctional Institution,Bushnell,Furniture; printing; graphics; mailing; culinary arts,"furniture,food","9544 County Road 476B, Bushnell, Florida 33513-0667",-82.211779,28.61971
+Florida,State,Tomoka Correctional Institution,Daytona Beach,Heavy vehicle renovation,metal,"3950 Tiger Bay Road, Daytona Beach, Florida 32124-1098",-81.160035,29.151573
+Florida,State,Union Correctional Institution,Raiford,Lumber; cattle; dental lab; license plates; metal furniture; food processing,"food,plates,metal,furniture","7819 N.W. 228th Street, Raiford, Florida 32026-4000",-82.241233,30.064634
+Florida,Federal,FCC Coleman,Sumterville,Office furniture,furniture,"846 NE 54TH TERRACE, SUMTERVILLE, FL  33521",-82.01094937,28.76809197
+Florida,Federal,FCI Marianna,Marianna,Electronics recycling,recycle,"3625 FCI ROAD, MARIANNA, FL  32446",-85.18824776,30.82822038
+Florida,Federal,FCI Miami,Miami,Clothing; textiles; recycling collection,"clothing,recycle","15801 S.W. 137TH AVENUE, MIAMI, FL  33177",-80.41443998,25.62001744
+Florida,Federal,FCI Tallahassee,Tallahassee,Services,none,"501 CAPITAL CIRCLE NE, TALLAHASSEE, FL  32301",-84.22641857,30.44201061
+Georgia,State,Autry State Prison,Pelham,Work boots; canvas shoes,clothing,"3178 Mt Zion Church Rd, Pelham, GA 31779",-84.14769958,31.13116417
+Georgia,State,Central State Prison,Macon,T-shirts; undergarments,clothing,"4600 Fulton Mill Rd, Macon, GA 31208",-83.75524661,32.77870939
+Georgia,State,Dodge State Prison,Chester,Furniture; residence hall items,furniture,"2971 OLD BETHEL CHURCH ROAD, CHESTER, GA 31012",-83.16841241,32.38711391
+Georgia,State,Dooly State Prison,Unadilla,Fresh vegetable production,food,"1412 Plunket Rd, Unadilla, GA 31091",-83.71872781,32.28286953
+Georgia,State,GCI Engraving Plant ,Decatur,Picture framing; engraving,metal,"2984 Clifton Springs Road, Decatur, GA 30034",-84.27371397,33.69091758
+Georgia,State,GCI Food Distribution Unit,Milledgeville,Meat processing; food warehousing; vehicle maintenance; transportation,food,"112 Abattoir Rd Se, Milledgeville, GA 31061",-83.20185718,33.03148369
+Georgia,State,Georgia State Prison,Reidsville,Road signs; traffic paint; office cubical systems; reclaim road signs,recycle,"300 1st Ave S, Reidsville, GA 30453",-82.16178856,31.99525445
+Georgia,State,Hancock State Prison,Sparta,Uniforms; embroidery products; inmate clothing,clothing,"701 Prison Blvd, Sparta, GA 31087",-82.95069497,33.24266054
+Georgia,State,Hays State Prison,Trion,Mattresses; pillows; eyeglasses,optical,"777 Underwood Dr, Trion, GA 30753",-85.31221939,34.51230887
+Georgia,State,Joe Kennedy Farm,Lyons,Row crop production; beef cattle; grist meal,food,"955 Resmondo Rd , Lyons, GA 30436, 30436",-82.30283676,32.23011119
+Georgia,State,Lee Arrendale State Prison,Alto,Beef cattle; swine,food,"2023 Gainesville Hwy, Alto, GA 30510",-83.59445295,34.449654
+Georgia,State,Montgomery State Prison,Mt Vernon,Office chairs; sofas; office furniture; egg production,"food,furniture","650 E Alston Rd, Mt Vernon, GA 30445",-82.58623138,32.16911921
+Georgia,State,Phillips State Prison,Buford,Printed products,none,"2989 W Rock Quarry Rd NE, Buford, GA 3051",-83.91407984,34.09387698
+Georgia,State,Pulaski State Prison,Hawkinsville,Inmate clothing; staff personal protective gear,clothing,"373 Upper River Rd, Hawkinsville, GA 31036",-83.45271088,32.31227116
+Georgia,State,Rogers State Prison,Reidsville,Dairy products; canned vegetables; fresh vegetables; beef cattle; row crops; swine production; equipment maintenance,food,"1978 Georgia 147, Reidsville, GA 30453",-82.1813361,32.00271104
+Georgia,State,Smith State Prison,Glennville,Road signs; decals; screen printing,none,"9676 U.S. 301, Glennville, GA 30427",-81.91832895,31.97323758
+Georgia,State,Valdosta State Prison,Valdosta,Industrial cleaners; personal hygiene products,none,"3259 VALTECH ROAD, VALDOSTA, GA 31601",-83.34296313,30.85822474
+Georgia,State,Walker State Prison,Rock Spring,File cabinets; custom metal products; metal furniture,"furniture,metal","97 Kevin Ln, Rock Spring, GA 30739",-85.26295367,34.8103536
+Georgia,State,Washington State Prison,Davisboro,Inmate clothing; bedding products,clothing,"13262 Georgia 24 Spur, Davisboro, GA 31018",-82.5972888,32.98618691
+Georgia,Federal,FCI Jesup,Jesup,Clothing; textiles,clothing,"2600 HIGHWAY 301 SOUTH, JESUP, GA  31599",-81.88591975,31.60667088
+Georgia,Federal,USP Atlanta,Atlanta,Clothing; textiles; recycling collection,"clothing,recycle","601 McDonough Blvd SE, Atlanta, GA 30315",-84.36820554,33.71369036
+Hawaii,State,Halawa Correctional Facility ,Aiea,Printing; commissary; furniture; sewing; mattresses; warehouse; graphics; signs; engraving,"furniture,metal","99-902 Moanalua, Aiea, HI 96701",-157.9294672,21.37592629
+Hawaii,State,Hawaii Community Correctional Center ,Hilo,Labor contracts,none,"60 Punahele St, Hilo, HI 96720",-155.0985463,19.71773298
+Hawaii,State,Kulani Correctional Facility ,Hilo,Wood and metal furniture; upholstery,"furniture,metal","19.549840, -155.301250",-155.30125,19.54984
+Hawaii,State,Waiawa Correctional Facility ,Waipahu,Agribusiness; labor contracts,food,"94-560 Kamehameha Hwy, Waipahu, HI 96797",-157.9980203,21.40774757
+Hawaii,State,Women's Community Correctional Center ,Kailua,Sewing; special projects; labor contracts,none,"42-477 Kalanianaole Highway, Kailua, HI 96734",-157.7479385,21.37601337
+Idaho,State,Idaho State Correctional Institution ,Kuna,Carpentry; plates; metal; signs; decals,metal,"13500 S Pleasant Valley Rd, Kuna, ID 83634",-116.234114,43.48038108
+Idaho,State,South Idaho Correctional Institution,Kuna,Agricultural,food,"13900 S Pleasant Valley Rd, Kuna, ID 83634",-116.2341779,43.47664625
+Idaho,State,St. Anthony Work Camp,Anthony,Private sector business,none,"125 N 8th W, St Anthony, ID 83445",-111.6930387,43.96805917
+Illinois,State,Centralia Correctional Center,Centralia,Garment shop; mattresses; officer's belts; recycling,"clothing,recycle","9330 Shattuc Road, Centralia, IL 62801",-89.19793722,38.55511512
+Illinois,State,Danville Correctional Center,Danville,Banners; custom embroidery; silk-screening; sewing; vehicle decaling; recycling,recycle,"3820 East Main Street, Danville, IL 61834",-87.5381464,40.13304918
+Illinois,State,Decatur Correctional Center,Decatur,Garment shop; dog grooming,clothing,"2310 East Mound Road, Decatur, IL 62524",-88.92456471,39.89220724
+Illinois,State,Dixon Correctional Center,Dixon,Eyeglasses; law enforcement gas-mask inserts,optical,"2600 N Brinton Ave, Dixon, IL 61021",-89.48635503,41.87367794
+Illinois,State,East Moline Correctional Center ,East Moline,Commercial laundry,none,"100 Hillcrest Road, East Moline, IL 61244",-90.42200052,41.53194529
+Illinois,State,Graham Correctional Center ,Hillsboro,Office furniture; dorm furniture; specialized woodworking; reupholstering; refinishing,furniture,"12078 Illinois Route 185, Hillsboro, IL 62049",-89.47030671,39.12894052
+Illinois,State,Hill Correctional Center,Galesburg,Meat processing; milk processing; juice processing,food,"600 South Linwood Road, Galesburg, IL 61402",-90.40275741,40.94103098
+Illinois,State,Illinois River Correctional Center,Canton,Bakery; recycling,"food,recycle","1300 W. Locust Street, Canton, IL 61520",-90.0680678,40.56044267
+Illinois,State,Jacksonville Correctional Center,Jacksonville,Sales center; office design; furniture design; laser engraving,"furniture,metal","2268 East Morton Avenue, Jacksonville, IL 62650",-90.18431829,39.72337632
+Illinois,State,Lincoln Correctional Center,Lincoln,Office seating assembly; metal filing cabinet assembly; sign manufacturing; warehousing; distribution center,metal,"1098 1350th Street, Lincoln, IL 62656",-89.38783422,40.11390481
+Illinois,State,Logan Correctional Center,Lincoln,Recycling; service dog training,recycle,"1096 1350th Street, Lincoln, IL 62656",-89.38812497,40.11390571
+Illinois,State,Menard Correctional Center,Menard,Broom manufacturing; cleaning products; garment shop; meat processing; waste removal; bio-diesel production; recycling,"clothing,food,recycle","711 Kaskaskia Street, Menard, IL 62259",-89.84507558,37.91233228
+Illinois,State,Shawnee Correctional Center,Vienna,Metal institutional furniture; parks furniture; plastic lumber furniture; recycling,"furniture,metal,recycle","6665 State Route 146 East, Vienna, IL 62995",-88.77684531,37.39783556
+Illinois,State,Sheridan Correctional Center,Sheridan,Garment cutting,clothing,"4017 E. 2603 Road, Sheridan, IL 60551",-88.67951335,41.51706222
+Illinois,State,Stateville Correctional Center,Joliet,Wood furniture; modular paneling designs; soap; cleaning supplies,furniture,"16830 So. Broadway St., Joliet, IL 60434 ",-88.08935293,41.52243196
+Illinois,State,Vandalia Correctional Center,Vandalia,Cooking oil distribution; meat processing; milk processing; juice processing; recycling,"food,recycle","39.015437, -89.097709",-89.097709,39.015437
+Illinois,State,Western Illinois Correctional Center,Mount Sterling,Meat processing,food,"2500 Rt. 99 South, Mount Sterling, IL 62353",-90.75084423,39.96438902
+Illinois,Federal,FCI Greenville,Greenville,Clothing; textiles,clothing,"100 U.S. HWY 40, GREENVILLE, IL  62246",-89.41341754,38.89237122
+Illinois,Federal,FCI Pekin,Pekin,Electronics; fleet management,none,"2600 S. SECOND ST., PEKIN, IL  61554",-89.66450428,40.53639109
+Illinois,Federal,USP Marion,Marion,Electronics; fleet management,none,"4500 PRISON ROAD, MARION, IL  62959",-88.98752166,37.66136398
+Indiana,State,Branchville Correctional Facility,Branchville,Call center; pallet repair; plastic recycling,"call-center,recycle","21390 Old State Road 37, Branchville, IN 47514",-86.60184965,38.16002799
+Indiana,State,Correctional Industrial Facility,Pendleton,Automotive part refurbishing; laundry,none,"5124 W. Reformatory Road, Pendleton, IN 46064",-85.75587509,39.98328092
+Indiana,State,Indiana State Prison,Michigan City,Digital license plates; metal fabrication,"plates,metal","1 Park Row, Michigan City, IN 46360",-86.91418961,41.7034354
+Indiana,State,Indiana Women's Prison,Indianapolis,CAD engineering; hand sewing,none,"2596 GirlÕs School Road, Indianapolis, IN 46214",-86.1499558,39.76691072
+Indiana,State,Indianapolis Reentry Educational Facility,Indianapolis,Administrative support; career development training,none,"401 North Randolph Street, Indianapolis, Indiana 46201",-86.12827468,39.77229112
+Indiana,State,Miami Correctional Facility,Bunker Hill,Braille; hygiene products; janitorial products; clothing; industrial filters; packaging,clothing,"3038 West 850 South, Bunker Hill, IN 46914-9810",-86.12923649,40.6428887
+Indiana,State,Pendleton Correctional Facility,Pendleton,Furniture; clothing,"clothing,furniture","4490 W. Reformatory Rd., Pendleton, IN 46064-9001",-85.75847212,39.98092858
+Indiana,State,Plainfield Correctional Facility,Plainfield,Laundry; commissary; distribution center; GIS mapping,none,"727 Moon Road, Plainfield, IN 46168",-86.41843537,39.6875719
+Indiana,State,Putnamville Correctional Facility,Greencastle,Pallet repair; furniture,furniture,"1946 West U.S. Hwy 40, Greencastle, IN 46135",-86.86112794,39.64399329
+Indiana,State,Rockville Correctional Facility,Rockville,Mattresses; clothing; toilet tissue,clothing,"811 W. 50 N, Rockville, IN 47872",-87.25389154,39.77645316
+Indiana,State,Wabash Valley Correctional Facility,Carlisle,Plastic recycling; printing services; sewing,recycle,"6908 S. Old U.S. Highway 41, Carlisle, IN 47838",-87.39412903,38.98137963
+Indiana,State,Westville Correctional Facility,Westville,Highway signs; plastic recycling,recycle,"5501 South 1100 West, Westville, IN 46391",-86.91356022,41.52523572
+Indiana,Federal,FCC Terre Haute,Terre Haute,Clothing; textiles; electronics; fleet solutions,clothing,"4200 Bureau Rd N, Terre Haute, IN 47802",-87.45121537,39.41429277
+Iowa,State,Anamosa State Penitentiary,Anamosa,License plates; signs; graphic arts; housekeeping chemicals; filters; metal furniture; custom wood; Braille,"furniture,plates,metal","406 North High Street, Anamosa, IA 52205",-91.28931849,42.11114967
+Iowa,State,Iowa Correctional Institution for Women,Mitchellville,Panels; seating; cleaning products; textiles; plastic bags,plastic-bags,"420 Mill Street SW, Mitchellville, IA 50169",-93.36584259,41.6660217
+Iowa,State,Iowa State Penitentiary,Fort Madison,Wood furniture,furniture,"3 John Bennett Drive, Fort Madison, IA 52627",-91.32927606,40.63021339
+Iowa,State,Mt. Pleasant Correctional Facility,Mt. Pleasant,Wood furniture,furniture,"1200 East Washington, Mt. Pleasant, IA 52641",-91.53654677,40.96377197
+Iowa,State,Newton Correctional Facility,Newton,Central commissary,none,"307 S. 60th Avenue W, Newton, IA 50208",-93.05793044,41.6301727
+Iowa,State,North Central Correctional Facility,Rockwell City,Equipment refurbishing,none,"313 Lanedale, Rockwell City, IA 50579",-94.61175148,42.39377434
+Kansas,State,El Dorado Correctional Facility,El Dorado,Food service; acrylic awards; balloon packaging,food,"1737 SE Us Highway 54, El Dorado, KS 67042",-96.81332403,37.81022367
+Kansas,State,Ellsworth Correctional Facility,Ellsworth,Farm equipment; metal products; food service,"food,metal","1607 State St, Ellsworth, KS 67439",-98.23442185,38.74170254
+Kansas,State,Hutchinson Correctional Facility,Hutchinson,Wire harnesses; cloth bags; transportation seating; egg production; steel components; food service,food,"500 Reformatory St, Hutchinson, KS 67501",-97.91146431,38.04656229
+Kansas,State,Lansing Correctional Facility,Lansing,Chemical; data entry; farm; food service; leather products; embroidery; snow plows; metal fabrication,"food,metal","301 E Kansas Ave, Lansing, KS 66043",-94.89264218,39.24941954
+Kansas,State,Larned Correctional Mental Health Facility,Larned,Hydraulic components; furniture; cattle; pet treats,"food,furniture","1318 Kansas 264, Larned, KS 67550",-99.10242312,38.18731797
+Kansas,State,Norton Correctional Facility,Norton,Oil field supplies; truck trailers; food service,food,"norton, ks",-99.88892832,39.82864187
+Kansas,State,Topeka Correctional Facility,Topeka,Cabinet doors; mattresses; food service,food,"815 SE Rice Rd, Topeka, KS 66607",-95.6230054,39.04027183
+Kansas,State,Winfield Correctional Facility,Winfield,Food service; balloon packaging,food,"1806 Pinecrest Cir, Winfield, KS 67156",-96.97552399,37.26448716
+Kansas,Federal,USP Leavenworth,Leavenworth,Electronics recycling; services,recycle,"1300 METROPOLITAN, LEAVENWORTH, KS  66048",-94.93493795,39.32777574
+Kentucky,State,Blackburn Correctional Complex ,Lexington,Inmate mattresses,none,"3111 Spurr Road, Lexington, Kentucky 40511",-84.53881254,38.11001744
+Kentucky,State,Eastern Kentucky Correctional Complex ,West Liberty,Coupon redemption; cabinetry; custom wood products,none,"200 Road to Justice, West Liberty, Kentucky 41472",-83.26706944,37.90557002
+Kentucky,State,Green River Correctional Complex ,Central City,Furniture,furniture,"1200 River Road, Central City, Kentucky 42330",-87.11842404,37.31604911
+Kentucky,State,KCI Central Office Warehouse and Showroom ,Frankfort,Moving crews; warehouse management; janitorial; grounds maintenance,none,"1041 Leestown Road, Frankfort, KY 40601",-84.81372101,38.18801135
+Kentucky,State,Kentucky Correctional Institution for Women ,Pewee Valley,Braille transcription; bulk mail services; janitorial cleansers; warehouse management,none,"3000 Ash Ave., Pewee Valley, Kentucky 40056",-85.48048817,38.30000306
+Kentucky,State,Kentucky State Penitentiary ,Eddyville,Inmate clothing,clothing,"266 Water Street, Eddyville, Kentucky 42038",-88.07466023,37.04629147
+Kentucky,State,Kentucky State Reformatory ,LaGrange,Metal fabrication; welding; license plates; powder coat paint; recycling,"plates,metal,recycle","3001 W Hwy 146, LaGrange, Kentucky 40032",-85.42162568,38.38929296
+Kentucky,State,Little Sandy Correctional Complex ,Sandy Hook,Recycling; upholstery; furniture refurbishing; office seating,"furniture,recycle","505 Prison Connector, Sandy Hook, Kentucky 41171",-83.07484548,38.1366536
+Kentucky,State,Luther Luckett Correctional Complex ,La Grange,Printing; embroidery,none,"1612 Dawkins Rd, La Grange, KY 40031",-85.41570826,38.41210392
+Kentucky,Federal,FCI Ashland,Ashland,Office furniture,furniture,"539 W Summit Rd, Ashland, KY 41102",-82.70962979,38.44637993
+Kentucky,Federal,FCI Manchester,Manchester,Clothing; textiles,clothing,"805 FOX HOLLOW ROAD, MANCHESTER, KY  40962",-83.78748047,37.18168211
+Kentucky,Federal,FMC Lexington,Lexington,Electronics; fleet management,none,"3301 LEESTOWN ROAD, LEXINGTON, KY  40511",-84.56635899,38.0978528
+Kentucky,Federal,USP Big Sandy,Inez,Clothing; textiles,clothing,"1197 AIRPORT ROAD, INEZ, KY  41224",-82.53881754,37.86655422
+Louisiana,State,Allen Correctional Center                ,Kinder,Furniture manufacturing; furniture restoration; chair plant,furniture,"3751 Lauderdale Woodyard Rd, Kinder, LA 70648",-92.7865316,30.56719014
+Louisiana,State,Avoyelles Correctional Center          ,Cottonport,Range herd,food,"1630 Prison Rd, Cottonport, LA 71327",-92.03426706,30.97444973
+Louisiana,State,David Wade Correctional Center       ,Homer ,Range herd; land and timber management,food,"670 Par Road 244, Homer, LA 71040",-93.05551963,32.79160346
+Louisiana,State,Dixon Correctional Institute           ,Jackson,Meat plant; chair plaint; embroidery; uniforms; janitorial; range herd,"clothing,food","5568 Louisiana 68, Jackson, LA 70748",-91.20468682,30.81558379
+Louisiana,State,Elayn Hunt Correctional Center      ,St. Gabriel,Chemical plant; garment factory; range herd,"clothing,food","6925 Louisiana 74, St Gabriel, LA 70776",-91.08178124,30.25937778
+Louisiana,State,Louisiana Correctional Institute for Women   ,St. Gabriel,Garment factory; janitorial,clothing,"7205 Highway 74, St. Gabriel, LA 70776",-91.07234701,30.26027367
+Louisiana,State,Louisiana State Penitentiary         ,Angola,Mattresses; license plates; metal fabrication; printing; row crops; tractor repair,"food,metal","17544 Tunica Trce, Angola, LA 70712",-91.56314958,30.93646963
+Louisiana,State,Winn Correctional Center                  ,Atlanta,Garment factory,clothing,"180 Cca Blvd, Winnfield, LA 71483",-92.64013626,31.92584441
+Louisiana,Federal,FCC Pollock,Pollock,Clothing; textiles,clothing,"1000 AIRBASE ROAD, POLLOCK, LA  71467",-92.4500923,31.46117767
+Louisiana,Federal,FCI Oakdale,Oakdale,Clothing; textiles,clothing,"1507 EAST WHATLEY ROAD, OAKDALE, LA  71463",-92.62870359,30.83223819
+Maine,State,Bolduc Correctional Facility,Warren,Woodworking; license plates,plates,"516 Cushing Rd, Warren, ME 04864",-69.21862501,44.06824602
+Maine,State,Charleston Correctional Facility,Charleston,Woodshop; wood harvesting,none,"1202 Dover Road, Charleston, ME 04422",-69.09079142,45.09201415
+Maine,State,Downeast Correctional Facility ,Machiasport,Garments,clothing,"64 Base Road, Machiasport, ME 04655 ",-67.39687847,44.62814876
+Maine,State,Maine Correctional Center,Windham,Woodworking; upholstery; refinishing; embroidery; clothing,"clothing,furniture","17 Mallison Falls Road, Windham, Maine 04062 ",-70.41576938,43.72900304
+Maine,State,Maine State Prison,Warren,Upholstery; woodworking; refinishing,furniture,"807 Cushing Rd, Warren, ME 04864",-69.22127558,44.06423803
+Maryland,State,Central Maryland Correctional Facility,Sykesville,Cleaning products; laundry,none,"7301 Buttercup Road, Sykesville, Maryland 21784",-76.95738586,39.37182018
+Maryland,State,Eastern Correctional Institution,Westover,Furniture restoration; textiles; laundry,furniture,"30420 Revells Neck Rd, Westover, MD 21890",-75.69716873,38.15377365
+Maryland,State,Jessup Correctional Institution,Jessup,Office furniture; dorm furniture; library shelving; license plates; uniforms,"clothing,furniture,plates","7804 House of Correction Rd, Jessup, MD 20794",-76.77442023,39.14840468
+Maryland,State,Maryland Correctional Institution  - Hagerstown,Hagerstown,Furniture; lockers; fabrication; upholstery; meat production; warehousing; laundry,"food,furniture","18601 Roxbury Road, Hagerstown, Maryland 21746",-77.71853364,39.56334365
+Maryland,State,Maryland Correctional Institution  - Jessup,Jessup,Graphics; copy service,none,"7805 House of Correction Rd, Jessup, MD 20794",-76.77435663,39.14838278
+Maryland,State,Maryland Correctional Institution for Women,Jessup,Clothing; mailing; data entry; office design,clothing,"7943 Brockbridge Road, Jessup, Maryland 20794",-76.77434364,39.13380567
+Maryland,State,Maryland Correctional Training Center,Hagerstown,Work station partitions; furniture assembly; toner remanufacturing,furniture,"18800 Roxbury Rd, Hagerstown, MD 21746",-77.71183983,39.56219333
+Maryland,State,North Branch Correctional Institution,Cumberland,Upholstery,furniture,"14100 McMullen Hwy SW, Cumberland, MD 21502",-78.82324381,39.60177451
+Maryland,State,Patuxent Institution,Jessup,Street signs; picture frames; laser engraving,metal,"7555 Waterloo Rd, Jessup, MD 20794",-76.78061776,39.16359134
+Maryland,State,Roxbury Correctional Institution,Hagerstown,Agriculture; recycling; graphics,"food,recycle","18701 Roxbury Rd, Hagerstown, MD 21746",-77.71519493,39.56273989
+Maryland,State,Western Correctional Institution,Cumberland,Laminated components for furniture items; laundry,furniture,"13800 McMullen Hwy SW, Cumberland, MD 21502",-78.81882799,39.60808981
+Maryland,Federal,FCI Cumberland,Cumberland,Services,none,"14601 BURBRIDGE RD SE,CUMBERLAND, MD  21502",-78.75300329,39.59691287
+Maryland,Federal,National Capital Recycling Center,Landover,Recycling collection,recycle,"3601 Pennsy Drive, Landover, MD 20785",-76.89015832,38.93143218
+Massachusetts,State,Massachusetts Treatment Center,Bridgewater,Silkscreen; validation; sign shops,none,"30 Admin Rd, Bridgewater, MA 02324",-70.95599499,41.94461707
+Massachusetts,State,MCI-Cedar Junction,Walpole,License plates,plates,"2405 Main St, Walpole, MA 02081",-71.28698404,42.10568677
+Massachusetts,State,MCI-Framingham,Framingham,Flag shop; embroidery shop,none,"99 Loring Dr, Framingham, MA 01702",-71.40971224,42.26829272
+Massachusetts,State,MCI-Norfolk,Norfolk,Binder shop; cost office; clothing shop; janitorial shop; maintenance; metal shop; furniture shop; upholstery,"clothing,furniture,metal","2 Clark St, Norfolk, MA 02056",-71.30372429,42.12142098
+Massachusetts,State,MCI-Shirley,Shirley,Sewing shop,none,"1 Harvard Rd, Shirley, MA 01464",-71.65701523,42.54303666
+Massachusetts,State,NCCI-Gardner,Gardner,Optical shop,none,"500 Colony Rd, Gardner, MA 01440",-71.94668958,42.57595194
+Massachusetts,State,Old Colony Correctional Center,Bridgewater,Print shop,none,"1 Admin Rd, Bridgewater, MA 02324",-70.94977207,41.94540368
+Massachusetts,State,Souza-Baranowski Correctional Center,Shirley,Furniture shop,furniture,"1 Harvard Rd, Shirley, MA 01464",-71.65701523,42.54303666
+Michigan,State,Bellamy Creek Correctional Facility ,Ionia,Shoe factory; sign factory,none,"1727 W Bluewater Hwy, Ionia, MI 48846",-85.10249366,42.98085616
+Michigan,State,Carson City Correctional Facility ,Carson City,Garment factory,clothing,"10274 Boyer Road, Carson City, MI 48811-9746",-84.87030239,43.16267721
+Michigan,State,Detroit Reentry Center ,Detroit,Janitorial products; personal hygiene products,none,"17600 Ryan Road, Detroit, MI 48212",-83.06256323,42.42247016
+Michigan,State,Earnest Brooks Correctional Facility ,Muskegon Heights,Laundry,none,"2500 S. Sheridan Drive, Muskegon Heights, MI 49444",-86.18464284,43.20759355
+Michigan,State,Gus Harrison Correctional Facility ,Adrian,License plates; optical lenses,"plates,optical","2727 East Beecher St., Adrian, MI 49221",-84.00553691,41.88996226
+Michigan,State,Ionia Correctional Facility ,Ionia,Garment factory,clothing,"1576 W. Bluewater Highway Ionia, MI 48846",-85.09732831,42.98285183
+Michigan,State,Kinross Correctional Facility ,Kincheloe,Garment factory,clothing,"16770 S. Watertower Drive, Kincheloe, MI",-84.46775197,46.26057097
+Michigan,State,Robert Cotton Facility ,Jackson,Mattresses; flat goods; print shop,none,"3500 N. Elm Road, Jackson, MI 49201",-84.38450514,42.28905488
+Michigan,State,Thumb Correctional Facility ,Lapeer,Laundry,none,"3225 John Conley Dr, Lapeer, MI 48446",-83.3517779,43.03512803
+Michigan,State,Women's Huron Valley Facility ,Ypsilanti,Winter coats; dentures and dental products for prisoners,none,"3201 Bemis Rd, Ypsilanti, MI 48197",-83.69417879,42.17143534
+Michigan,Federal,FCI Milan,Milan,Office furniture,furniture,"4004 EAST ARKONA ROAD, MILAN, MI  48160",-83.67336075,42.09878026
+Minnesota,State,MCF-Faribault,Faribault,Custodial products; laundry; plastics; wood furniture and subcontract labor,furniture,"1101 Linden Lane, Faribault, Minnesota  55021-6400",-93.2542191,44.28490263
+Minnesota,State,MCF-Moose Lake,Moose Lake,Printing; textiles and subcontract labor,none,"1000 Lake Shore Drive, Moose Lake, Minnesota  55767",-92.76206873,46.43778038
+Minnesota,State,MCF-Oak Park Heights,Stillwater,Centralized canteen,none,"5329 Osgood Avenue North, Stillwater, Minnesota  55082-1117",-92.80717202,45.02446077
+Minnesota,State,MCF-Rush City,Rush City,License plates; stickers and subcontract labor,plates,"7600 525th St., Rush City, Minnesota  55069",-92.95338122,45.70635492
+Minnesota,State,MCF-Shakopee,Shakopee,Textiles; safety products and subcontract labor,none,"1010 West Sixth Avenue, Shakopee, Minnesota  55379",-93.54028713,44.79156157
+Minnesota,State,MCF-Stillwater,Bayport,Metal fabrication; upholstery; painting; subcontract labor; warehousing; distribution,"furniture,metal","970 Pickett Street, Bayport, Minnesota  55003-1490",-92.78672939,45.02697851
+Minnesota,Federal,FCI Sandstone,Sandstone,Clothing; textiles; services,clothing,"2300 COUNTY RD 29, SANDSTONE, MN  55072",-92.84553755,46.11697824
+Minnesota,Federal,FCI Waseca,Waseca,Clothing; textiles,clothing,"1000 UNIVERSITY DR SW, WASECA, MN  56093",-93.50968597,44.06585901
+Mississippi,State,Central Mississippi Correctional Facility,Pearl,Print shop; furniture; warehouse,furniture,"3794 Mississippi 468, Pearl, MS 39208",-90.05784786,32.2311072
+Mississippi,State,Mississippi State Penitentiary,Parchman,Textiles; mattresses; metal fabrication,metal,"590 Parchman Road 12, Parchman, MS 38738",-90.49706674,33.91879317
+Mississippi,State,South Mississippi Correctional Institution,Leakesville,Garments,clothing,"22689 Hwy 63 North, Leakesville, MS  39451",-88.64182603,31.20886857
+Mississippi,Federal,FCC Yazoo City,Yazoo City,Clothing; textiles,clothing,"2225 HALEY BARBOUR PARKWAY, YAZOO CITY, MS  39194",-90.41440929,32.88216412
+Missouri,State,Central Missouri Correctional Center,,Tire recycling,recycle,,-92.47774251,38.36798694
+Missouri,State,Chillicothe Correctional Center,Chillicothe,Clothing; towels; wash cloths,clothing,"3151 Litton Road, Chillicothe, MO 64601",-93.54026427,39.81021269
+Missouri,State,Crossroad Correctional Center,Cameron,Toilet paper; plastic bags; filters  ,plastic-bags,"1115 East Pence Road, Cameron, MO 64429",-94.23316123,39.76066804
+Missouri,State,Eastern Reception Diagnostic Correctional Center,Bonne Terre,Institutional and home detergents; soaps; and cleaners,none,"2727 Highway K, Bonne Terre, MO 63628",-90.51808224,37.92079725
+Missouri,State,Farmington Correctional Center,Farmington,Laundry service; mattresses; coats; coveralls; mops,none,"1012 West Columbia Street, Farmington, MO 63640",-90.43642921,37.77493255
+Missouri,State,Jefferson City Correctional  Center,Jefferson City,Cartridge recycling; officer uniforms; license plates; furniture; signs; plaques,"clothing,furniture,plates,recycle","8200 No More Victims Road, Jefferson City, MO 65101",-92.07382711,38.5472431
+Missouri,State,Moberly Correctional Center,Moberly,Laundry service; metal furniture; auto restoration; traffic signs; printing services,furniture,"5201 South Morley, Moberly, MO 65270",-92.43425116,39.40280131
+Missouri,State,Northeast Correctional Center,Bowling Green,Office partitions; wood file cabinets,none,"13698 Airport Road, Bowling Green, MO 63334",-91.21792288,39.36617968
+Missouri,State,Potosi Correctional Center,Mineral Point,Metal tube bending and fabrication,metal,"11593 State Highway O, Mineral Point, MO 63660",-90.73521414,37.9338048
+Missouri,State,South Central Correctional Center,Licking,Furniture restoration; upholstery and school desks,furniture,"255 West Highway 32, Licking, MO 65542",-91.84997281,37.49928187
+Missouri,State,South East Correctional Center,Charleston,Dorm furniture,furniture,"300 East Pedro Simmons Drive, Charleston, MO 63834",-89.35138727,36.8917741
+Missouri,State,Tipton Correctional Center,Tipton,Chairs; upholstery; offender shoes; duty belts and outdoor flags,"clothing,furniture","619 North Osage Avenue, Tipton, MO 65081",-92.77854716,38.66633754
+Missouri,State,Women's Eastern Reception Diagnostic Correctional Center,Vandalia,Offender clothing,clothing,"1101 East Highway 54, Vandalia, MO 63382",-91.48274101,39.31313128
+Montana,State,Montana State Prison ,Deer Lodge,Cattle; crops; milk processing; lumber mill; furniture; printing; license plates; clothing; vehicle maintenance; metal fabrication,"clothing,food,furniture,plates,metal","400 Conley Lake Rd, Deer Lodge, Mt 59722",-112.7565127,46.39694305
+Montana,State,Montana Women's Prison,Billings,Embroidery; dog training; computer technology,none,"701 S. 27th St., Billings, MT 59101",-108.4964384,45.77462158
+Nebraska,State,Community Correctional Center-Lincoln,Lincoln,Road and work crews,none,"2720 W Van Dorn St, Lincoln, NE 68522",-96.68175074,40.78444855
+Nebraska,State,Community Correctional Center-Omaha,Omaha,Road and work crews,none,"2320 Ave J, Omaha, NE 68110",-95.90131827,41.28313926
+Nebraska,State,CSI Warehouse and Administrative Office,Lincoln,Warehouse; inventory control; purchasing; engineering; accounting,none,"800 Pioneers Blvd, Lincoln, NE 68502",-96.70989176,40.77022824
+Nebraska,State,Lincoln Correctional Center,Lincoln,Print shop; wood shop,none,"3216 W Van Dorn St, Lincoln, NE 68522",-96.76692465,40.78465305
+Nebraska,State,Nebraska Correctional Center for Women,York,Sewing,none,"1107 Recharge Rd, York, NE 68467",-97.62829152,40.86523247
+Nebraska,State,Nebraska State Penitentiary,Lincoln,License plates; metal shop; Braille shop; janitorial shop; sign shop; furniture; laundry,"furniture,plates,metal","4201 S 14th St, Lincoln, NE 68502",-96.7017278,40.77059144
+Nebraska,State,Omaha Correctional Center,Omaha,Upholstery; sewing; wood shop,furniture,"2323 Ave J, Omaha, NE 68110",-95.89754115,41.28307316
+Nebraska,State,Tecumseh State Correctional Institution,Tecumseh,Laundry; wood shop,none,"2725 Nebraska 50, Tecumseh, NE 68450",-96.17973674,40.38701072
+Nevada,State,Florence McClure Women's Correctional Center ,Las Vegas,Repackaging,none,"4370 Smiley Rd, Las Vegas, NV 89115",-115.0776303,36.25472849
+Nevada,State,High Desert State Prison ,Indian Springs,Card sorting,none,"22010 Coldcreek Rd, Indian Springs, NV 89018",-115.5714223,36.51121605
+Nevada,State,Lovelock Correctional Center ,Lovelock,Garment and drapery manufacturing,clothing,"1200 Prison Rd, Lovelock, NV 89419",-118.3829241,40.24273087
+Nevada,State,Nevada State Prison ,Carson City,License plates,plates,"3301 E 5th St, Carson City, NV 89701",-119.731904,39.16108282
+Nevada,State,Northern Nevada Correctional Center ,Carson City,Livestock; crops; composting; furniture manufacturing; metal fabrication; mattress manufacturing; printing,"food,furniture,metal","1721 Snyder Ave, Carson City, NV 89701",-119.7476499,39.11397293
+Nevada,State,Southern Desert Correctional Center ,Indian Springs,Auto restoration; card sorting,none,"22010 Cold Creek Rd, Indian Springs, NV 89018",-115.5714223,36.51121605
+Nevada,State,Three Lakes Valley Conservation Camp ,Indian Springs,Metal truss manufacturing,metal,"1021 Cold Creek Rd, Indian Springs, NV 89018",-115.5501203,36.52225368
+Nevada,State,Warm Springs Correctional Center ,Carson City,Card sorting,none,"3301 E 5th St, Carson City, NV 89701",-119.731904,39.16108282
+New Hampshire,State,Northern NH Correctional Facility,Berlin,Furniture; upholstery; refinishing; woodworking,furniture,"138 East Milan Road, Berlin, NH 03570",-71.15307812,44.51052052
+New Hampshire,State,State Prison for Men,Concord,Furniture; license plates; printing; sign services; woodworking; farm services; campfire wood,"furniture,plates","281 North State Street, Concord, NH 03302-0014",-71.55614205,43.22674673
+New Hampshire,State,State Prison for Women,Goffstown,Finishing work; stenciling; painting; sewing,none,"317 Mast Road, Goffstown, NH 03045",-71.53803296,43.00938111
+New Jersey,State,Adult Diagnostic and Treatment Center,Avenel,Flags; sewing,none,"8 Production Way, Avenel, NJ",-74.27481901,40.59055557
+New Jersey,State,Albert C. Wagner Youth Correctional Facility,Bordentown Township,Metal shop; bed frames; locker boxes,metal,"500 Ward Ave, Bordentown Township, NJ 08505",-74.69116136,40.15166164
+New Jersey,State,Bayside State Prison,Leesburg,Clothing; bakery; license plates,"clothing,food,plates","4293 Route 47, Leesburg, NJ 08327",-74.97047892,39.25811955
+New Jersey,State,East Jersey State Prison,Rahway,Clothing; textiles; metal shop; furniture,"clothing,furniture,metal","1100 Woodbridge Rd, Rahway, NJ 07065",-74.26775844,40.59597529
+New Jersey,State,Edna Mahan Correctional Facility for Women,Clinton,Clothing; sheets; pillowcases,clothing,"30 County Road 513, Clinton, NJ 08809",-74.91163277,40.64145535
+New Jersey,State,Mountainview Youth Correctional Facility,Avenel,Mattresses; pillows; furniture,furniture,"8 Production Way, Avenel, NJ 07001",-74.27481901,40.59055557
+New Jersey,State,Northern State Prison,Newark,Clothing,clothing,"168 Frontage Rd, Newark, NJ 07114",-74.17019129,40.71186747
+New Jersey,State,South Woods State Prison,Bridgeton,Clothing; signs; graphics; shoes; printing; distribution; warehousing,clothing,"215 S Burlington Rd, Bridgeton, NJ 08302",-75.2112952,39.41342101
+New Jersey,State,Southern State Correctional Facility,Delmont,Sheds; cabins; picnic tables; lifeguard stands; flower pots; parking bumpers,none,"4295 N Delsea Dr, Delmont, NJ 08314",-74.97159929,39.24518003
+New Jersey,Federal,FCI Fairton,Fairton,Electronics; fleet management,none,"655 FAIRTON-MILLVILLE ROAD, FAIRTON, NJ  08320",-75.21689671,39.38046354
+New Jersey,Federal,FCI Fort Dix,Fort Dix,Clothing; textiles; electronics recycling,"clothing,recycle","5756 HARTFORD & POINTVILE RD, FORT DIX, NJ  08640",-74.62910647,40.02168235
+New Mexico,State,Central New Mexico Correctional Facility ,Los Lunas,Furniture; distribution center; landscaping,furniture,"1525 Morris Road, Los Lunas, New Mexico 87031-1328",-106.7639896,34.79084317
+New Mexico,State,Guadalupe County Correctional Facility ,Santa Rosa,Print shop; Urinalysis cups,none,"34.907457, -104.703112",-104.703112,34.907457
+New Mexico,State,Lea County Correctional Facility ,Hobbs,Inmate hobby crafts,none,"6900 West Millen, Hobbs, New Mexico 88244",-103.1785006,32.75483005
+New Mexico,State,New Mexico Women's Correctional Facility,Grants,Sewing shop; textiles; embroidery; call center,call-center,"1700 East Old Highway 66, Grants, NM 87020",-107.8210652,35.13600658
+New Mexico,State,Penitentiary of New Mexico ,Santa Fe,Landscaping; commissary; food services; bear habitat restoration; chicken coops; bakery,food,"4331 State Highway 14, Santa Fe, New Mexico 87504",-106.0536992,35.56468229
+New Mexico,State,Roswell Correctional Center,Hagerman,Dairy goat program,food,"578 W. Chickasaw Road, Hagerman, New Mexico 88232",-104.5396204,33.13865548
+New Mexico,State,Southern New Mexico Correctional Facility,Las Cruces,Wheelchair restoration; hoop houses,none,"1983 Joe R. Silva Boulevard, Las Cruces, New Mexico 88004-0639",-106.7778468,32.30690094
+New Mexico,State,Springer Correctional Facility,Springer,Inmate equine rescue; bakery; alfalfa farm,food,"201 Highway 468, Springer NM, 87747",-104.646509,36.40126904
+New Mexico,State,Western New Mexico Correctional Facility,Grants,Plastic bag manufacturing; cleaning products; textiles; tilapia farm,none,"2111 Lobo Canyon Rd, Grants, NM",-107.7990487,35.18213504
+New York,State,Albion Correctional Facility,Albion,Trash bins; metal shelving; plastic signs; name tags; awards,metal,"3595 State School Road, Albion, New York 14411-9399",-78.21452327,43.24121607
+New York,State,Attica Correctional Facility,Attica,File cabinets; lockers; storage cabinets; metal desks,metal,"639 Exchange St, Attica, New York 14011-0149",-78.2758476,42.850821
+New York,State,Auburn Correctional Facility,Auburn,License plates; chairs; tables,"furniture,plates","135 State Street, Auburn, New York 13024-9000",-76.57061325,42.93522635
+New York,State,Bedford Hills Correctional Facility,Bedford Hills,Call center,call-center,"247 Harris Road, Bedford Hills, New York 10507-2400",-73.68003942,41.24147348
+New York,State,Clinton Correctional Facility,Dannemora,Apparel; uniforms; outerwear; underwear,clothing,"1156 Rt. 374, Dannemora, New York 12929-2000",-73.72342125,44.72184974
+New York,State,Coxsackie Correctional Facility,Coxsackie,Apparel; specialty fabric products,clothing,"11260 Route 9W, Coxsackie, New York 12051-0200",-73.84392009,42.3459937
+New York,State,Eastern NY Correctional Facility,Napanoch,Highway and other outdoor signs; mattresses; pillows; bulleting and white boards,none,"30 Institution Rd, Napanoch, New York 12458-0338",-74.36416872,41.74264348
+New York,State,Elmira Correctional Facility,Elmira,Offset printing; bindery; forms; foundry,none,"1879 Davis St, Elmira, New York 14901-0500",-76.82697636,42.1146035
+New York,State,Fishkill Correctional Facility,Beacon,Specialty metal fabrications; security tables; metal furniture components ,"furniture,metal","18 Strack Drive, Beacon, New York 12508-0307",-73.94658112,41.52306665
+New York,State,Great Meadow Correctional Facility,Comstock,Chemical products,none,"11739 State Route 22, Comstock, New York 12821-0051",-73.43636223,43.45857416
+New York,State,Green Haven Correctional Facility,Stormville,Seating; furniture; tables; desks; office systems,furniture,"594 Rt. 216, Stormville, New York 12582-0010",-73.71761302,41.58453428
+New York,State,Greene Correctional Facility,Coxsackie,Call center,call-center,"165 Plank Road, Coxsackie, New York 12051-0008",-73.8268762,42.34940049
+New York,State,Shawangunk Correctional Facility,Wallkill,Document conversion,none,"200 Quick Road, Wallkill, New York 12589-0750",-74.15363712,41.62827274
+New York,State,Wallkill Correctional Facility,Wallkill,Prescription eyeglasses,optical,"50 McKendrick Road, Wallkill, New York 12589-0286",-74.16202868,41.62924052
+New York,Federal,FCI Otisville,Otisville,Electronics; fleet management,none,"2 Two Mile Dr, Otisville, NY 10963",-74.53333768,41.47685777
+New York,Federal,FCI Ray Brook,Ray Brook,Clothing; textiles,clothing,"128 Ray Brook Rd, Ray Brook, NY 12977",-74.09848364,44.29401204
+North Carolina,State,Alexander Correctional Institution,Taylorsville,Woodworking plant,none,"633 Old Landfill Road, Taylorsville, N.C.  28681",-81.17036353,35.88452743
+North Carolina,State,Brown Creek Correctional Institution,Polkton,Metal products plant,metal,"248 Prison Camp Road, Polkton, N.C. 28135",-80.1768772,34.98943519
+North Carolina,State,Caledonia Correctional Institution,Tillery,Farm; cannery; produce warehouse,food,"2787 Caledonia Drive, Tillery, N.C.   27882",-77.48291938,36.25139277
+North Carolina,State,Central Prison,Raleigh,Laundry,none,"1300 Western Blvd., Raleigh, N.C.   27606",-78.65693125,35.77518682
+North Carolina,State,Columbus Correctional Institution,Whiteville,Sewing,none,"1255 Prison Camp Road, Whiteville, N.C.  28472",-78.72039317,34.27973359
+North Carolina,State,Craggy Correctional Center,Asheville,Laundry,none,"2992 Riverside Drive, Asheville, N.C. 28804",-82.60477673,35.66741712
+North Carolina,State,Franklin Correctional Center,Bunn,Sign plant,none,"5918 Hwy 39 South, Bunn, N.C.  27508",-78.2615455,35.97386834
+North Carolina,State,Harnett Correctional Institution,Lillington,Meat processing plant,food,"1210 E. McNeil Street, Lillington, N.C. 27546",-78.80094458,35.39039383
+North Carolina,State,Johnston Correctional Institution,Smithfield,Paint plant,none,"2465 US 70 West, Smithfield, N.C. 27577",-78.26960107,35.49127711
+North Carolina,State,Lanesboro Correctional Institution,Polkton,Inmate packaging,none,"552 Prison Camp Road, Polkton, N.C. 28135",-80.17700874,34.98615609
+North Carolina,State,Marion Correctional Institution,Marion,Sewing,none,"355 Old Glenwood Rd, Marion, NC 28752",-81.9536537,35.64170716
+North Carolina,State,Nash Correctional Institution,Nashville,Print plant; optical plant,optical,"2869 US 64 Alt, Nashville N.C. 27856",-78.01745751,35.97060514
+North Carolina,State,North Carolina Correctional Institution for Women,Raleigh,License plates; quick copy plant,plates,"1034 Bragg Street, Raleigh, N.C. 27610",-78.62278743,35.76514043
+North Carolina,State,Pasquotank Correctional Institution,Elizabeth City,Sewing,none,"527 Commerce Drive, Elizabeth City, N.C. 27906",-76.30995053,36.36308375
+North Carolina,State,Pender Correctional Institution,Burgaw,Sewing,none,"906 Penderlea Highway, Burgaw, N.C.  28425",-77.94198292,34.55399269
+North Carolina,State,Piedmont Correctional Institution,Salisbury,Reupholstery plant,furniture,"1245 Camp Rd, Salisbury, NC 28147",-80.55007129,35.62163855
+North Carolina,State,Sampson Correctional Institution,Clinton,Laundry,none,"700 Northwest Blvd, Hwy 421 N, Clinton, N.C. 28328",-78.32216736,34.99829331
+North Carolina,State,Scotland Correctional Institution,Laurinburg,Sewing; Braille plant,none,"22385 McGirt's Bridge Rd., Laurinburg, N.C. 28353 ",-79.35955161,34.81166701
+North Carolina,State,Warren Correctional Institution,Manson,Janitorial products,none,"379 Collins Road, Manson, N.C. 27553",-78.27020703,36.41921326
+North Carolina,Federal,FCC Butner,Butner,Clothing; textiles; electronics; fleet solutions,clothing,"3000 Old 75 Hwy, Butner, NC 27509",-78.76931805,36.15728742
+North Dakota,State,Dakota Women's Correctional and Rehabilitation Center ,New England,Sewing,none,"440 McKenzie Street, New England, ND 58647",-102.8665803,46.53596984
+North Dakota,State,James River Correctional Center ,Jamestown,Upholstery; sewing; plastic bags; commissary,"furniture,plastic-bags","2521 Circle Drive, Jamestown, ND 58401",-98.68360438,46.88204526
+North Dakota,State,Missouri River Correctional Center ,Bismarck,Metal; sandbagging,metal,"1800 48th Avenue S.W., Bismarck, ND 58506",-100.8156726,46.75129178
+North Dakota,State,North Dakota State Penitentiary ,Bismarck,Furniture; license plates; signs; metal,"furniture,plates,metal","3100 Railroad Ave, Bismarck, ND 58501",-100.741538,46.79852538
+Ohio,State,Allen Correctional Institution,Lima,Inmate clothing,clothing,"2238 N West St, Lima, OH 45801",-84.1086622,40.77120851
+Ohio,State,Belmont Correctional Institution,St Clairsville,Toilet paper,none,"68518 Bannock Uniontown Rd, St Clairsville, OH 43950",-80.97675811,40.1081223
+Ohio,State,Chillicothe Correctional Institution,Chillicothe,Chairs; mattresses; vehicle modifications,furniture,"15802 Ohio 104, Chillicothe, OH 45601",-83.00629472,39.37082834
+Ohio,State,Grafton Correctional Institution,Grafton,Braille transcription; fragrance oils,none,"2500 Avon Belden Rd, Grafton, OH 44044",-82.02108714,41.27862074
+Ohio,State,Lebanon Correctional Institution,Lebanon,License plates,plates,"3791 State Route 63, Lebanon, OH 45036",-84.28787819,39.43842361
+Ohio,State,London Correctional Institution,London,Dental; debarring parts,none,"1580 State Route 56 SW, London, OH 43140",-83.4750835,39.91090514
+Ohio,State,Madison Correctional Institution,London,Modular office panels; plastic bags,none,"1851 State Route 56, London, Ohio 43140",-83.47147809,39.90708159
+Ohio,State,Mansfield Correctional Institution,Mansfield,Deflashing parts; corrugated boxes,none,"1150 North Main Street, Mansfield, Ohio 44901",-82.51326162,40.79341768
+Ohio,State,Marion Correctional Institution,Marion,Metal furniture; waste container refurbishing,"furniture,metal","940 Marion-Williamsport Rd E, Marion, OH 43302",-83.10715078,40.61507811
+Ohio,State,McKinley Ave - Vehicle Services Center,Columbus,Vehicle service center; data entry; computer design; showroom,none,"1221 McKinley Avenue, Columbus, Ohio  43222",-83.03356145,39.96338323
+Ohio,State,Ohio Reformatory for Women,Marysville,Flags; optical,optical,"1479 Collins Ave, Marysville, OH 43040",-83.39299733,40.22857283
+Ohio,State,Pickaway Correctional Institution,Orient,Printing; meat processing; dairy processing; packaging; modular install crews,food,"11781 Ohio 762, Orient, OH 43146",-83.14909637,39.80273335
+Ohio,State,Southeastern Correctional Institution,Lancaster,Janitorial,none,"5900 Bis Rd SW, Lancaster, OH 43130",-82.62200557,39.6422711
+Ohio,State,Warren Correctional Institution,Lebanon,Outdoor metal furniture; 3-ring binders; deflashing parts,"furniture,metal","5787 Ohio 63, Lebanon, OH 45036",-84.32472247,39.4401959
+Ohio,Federal,FCI Elkton,Lisbon,Services,none,"8730 SCROGGS ROAD, LISBON, OH  44432",-80.70849532,40.77400871
+Oklahoma,State,Dick Connors Correctional Center ,Hominy,Metal fabrication; welding; license plates,"plates,metal"," 129 Conner Road, Hominy, OK 74035",-96.38936631,36.46524723
+Oklahoma,State,John Lilley Correctional Center,Boley,Mattress pads; janitorial chemicals,none,"407971 Hwy 62E, Boley, OK 74829",-96.48365733,35.49387091
+Oklahoma,State,Joseph Harp Correctional Center,Lexington,Furniture factory; warehouse; records conversion,furniture,"16161 Moffatt Rd, Lexington, OK 73051",-97.20234525,35.0295097
+Oklahoma,State,Lawton Correctional Facility,"Lawton,",Garment manufacturing,clothing,"8607 SE Flower Mound Rd, Lawton, OK 73501",-98.35225401,34.52658001
+Oklahoma,State,Lexington Assessment and Reception Center,Lexington,Modular office systems,none,"15151 Oklahoma 39, Lexington, OK 73051",-97.21909749,35.01495734
+Oklahoma,State,Mack Alford Correctional Center,Stringtown,Upholstery; sign shop; refurbishing,furniture,"1151 U.S. 69, Stringtown, OK 74569",-96.05939694,34.4646781
+Oklahoma,State,Oklahoma State Reformatory,Granite,Garment manufacturing,clothing,"1700 E 1st St, Granite, OK 73547",-99.36587139,34.95792288
+Oklahoma,Federal,FCI El Reno,El Reno,Office furniture,furniture,"4205 HIGHWAY 66 WEST, EL RENO, OK  73036",-98.04700953,35.53709819
+Oregon,State,Coffee Creek Correctional Facility,Wilsonville,Textiles; document scanning and digitizing,none,"24499 SW Grahams Ferry Rd, Wilsonville, OR 97070",-122.8090436,45.30275432
+Oregon,State,Eastern Oregon Correctional Institution,Pendleton,Garment; embroidery; commercial linen,clothing,"2500 Westgate, Pendleton, OR 97801",-118.8154565,45.67289488
+Oregon,State,Mill Creek Correctional Facility,Salem,Metal fabrication; commercial linen sort,metal,"5465 Turner Road SE, Salem, Oregon 97317 ",-122.9713183,44.87560133
+Oregon,State,Oregon State Correctional Institution,Salem,Printing; mail fulfillment,none,"3405 Deer Park Drive SE Salem, Oregon 97310-9385",-122.9608092,44.88418589
+Oregon,State,Oregon State Penitentiary,Salem,Linens; metal fabrication; furniture,"furniture,metal","2605 State St, Salem, OR 97310",-123.0075151,44.93147508
+Oregon,State,Snake River Correctional Institution,Ontario,Linens for institution; signage,none,"777 Stanton Blvd, Ontario, Oregon 97914-8335",-117.0610392,44.0825015
+Oregon,State,Two Rivers Correctional Institution,Umatilla,Commercial linen; furniture,furniture,"82911 Beach Access Rd, Umatilla, OR 97882",-119.26567,45.92423961
+Oregon,State,Warner Creek Correctional Facility,Lakeview,Contact center,none,"20654 Rabbit Hill Rd, Lakeview, OR 97630",-120.376154,42.2436487
+Oregon,Federal,FCI Sheridan,Sheridan,Electronics; fleet management; recycling collection,recycle,"27072 BALLSTON ROAD, SHERIDAN, OR  97378",-123.3956209,45.08313842
+Pennsylvania,State,SCI-Albion,Albion,Commissary,none,"10745 Pennsylvania 18, Albion, PA 16475",-80.36826563,41.87791214
+Pennsylvania,State,SCI-Benner Township,Bellefonte,Laundry,none,"301 Institution Drive, Bellefonte, PA  16823",-77.77770773,40.91166134
+Pennsylvania,State,SCI-Cambridge Springs,Cambridge Springs,Optical,optical,"451 Fullerton Avenue, Cambridge Springs, PA 16403-1238 ",-80.05403557,41.7987948
+Pennsylvania,State,SCI-Coal Township,Coal Township,TV assembly and repair,none,"1 Kelley Drive, Coal Township, PA 17866-1020 ",-76.56964697,40.80515923
+Pennsylvania,State,SCI-Dallas,Dallas,Mattresses; garments  and embroidery,clothing,"1000 Follies Rd, Dallas, PA 18612",-76.00454406,41.28327198
+Pennsylvania,State,SCI-Fayette,La Belle,License plates; precision metal,"plates,metal","50 Overlook Dr, La Belle, PA 15450",-79.98734618,39.99677716
+Pennsylvania,State,SCI-Frackville,Frackville,Laundry,none,"1111 Altamont Boulevard, Frackville, PA 17931-2699",-76.22262319,40.77445369
+Pennsylvania,State,SCI-Graterford,Skippack,Garments; boots and repairs,clothing,"4533 Skippack Pike, Skippack, PA 19474",-75.4218482,40.2386864
+Pennsylvania,State,SCI-Greene,Waynesburg,Garments and mesh laundry; commissary bags,clothing,"169 Progress Dr, Waynesburg, PA 15370",-80.13759215,39.90118486
+Pennsylvania,State,SCI-Houtzdale,Houtzdale,Commissary,none,"209 Institution Dr, Houtzdale, PA 16651",-78.35579682,40.81504144
+Pennsylvania,State,SCI-Huntingdon,Huntingdon,Garments; signs; print; license plates; soap and detergents,"clothing,plates","1100 Pike St, Huntingdon, PA 16652",-78.0277197,40.49248454
+Pennsylvania,State,SCI-Mahanoy,Frackville,Commissary,none,"301 Morea Rd, Frackville, PA 17932",-76.20529431,40.78145768
+Pennsylvania,State,SCI-Muncy,Muncy,Garments,clothing,"6454 Pennsylvania 405, Muncy, PA 17756",-76.81964785,41.19877453
+Pennsylvania,State,SCI-Retreat,Hunlock Creek,Laundry,none,"660 State Route 11, Hunlock Creek, PA 18621",-76.08833553,41.18985773
+Pennsylvania,State,SCI-Rockview,Bellefonte,Chairs; wood products; upholstery; engraving and custom furniture,"furniture,metal","1 Rockview Place, Bellefonte, PA 16823",-77.78025926,40.85358667
+Pennsylvania,State,SCI-Smithfield,Huntingdon,Garments,clothing,"1120 Pike Street, Huntingdon, PA 16652",-78.03095249,40.49633127
+Pennsylvania,State,SCI-Somerset,Somerset,Laundry,none,"1590 Walters Mill Rd, Somerset, PA 15510",-79.03572661,39.96166748
+Pennsylvania,State,SCI-Waymart,Waymart,Garments; rainwear and personal care kits,clothing,"P.O. Box 256, Route #6, Waymart, PA 18472 ",-75.40823558,41.5882744
+Pennsylvania,Federal,FCC Allenwood,White Deer,Office furniture,furniture,"41.127631, -76.915344",-76.915344,41.127631
+Pennsylvania,Federal,FCI Loretto,Loretto,Electronics; fleet management,none,"772 SAINT JOSEPH ST., LORETTO, PA  15940",-78.6174779,40.49772695
+Pennsylvania,Federal,FCI Schuylkill,Minersville,Office furniture,furniture,"40.732000, -76.344133",-76.344133,40.732
+Pennsylvania,Federal,USP Canaan,Waymart,Services,none,"3057 EASTON TURNPIKE, WAYMART, PA  18472",-75.40834691,41.56643193
+Pennsylvania,Federal,USP Lewisburg,Lewisburg,Electronics recycling,recycle,"2400 ROBERT F. MILLER DRIVE, LEWISBURG, PA  17837",-76.9148889,40.98494518
+Rhode Island,State,John J. Moran Facility,Cranston,Carpentry shop; auto body shop; upholstery shop; license plates; garment shop; metal shop,"clothing,furniture,plates,metal","41 Howard Ave, Cranston, RI 02920",-71.46199049,41.74173147
+Rhode Island,State,Maximum Security,Cranston,Carpentry shop; print shop,none,"40 Howard Ave, Cranston, RI 02920",-71.46497352,41.74484894
+South Caroilna,Federal,FCI Edgefield,Edgefield,Clothing; textiles,clothing,"501 GARY HILL ROAD, EDGEFIELD, SC  29824",-81.92178926,33.75788935
+South Carolina,State,Allendale Correctional Institution,Fairfax,Golf carts,none,"1057 Revolutionary Trail, Fairfax, SC 29827",-81.26539192,32.97027477
+South Carolina,State,Broad River Correctional Institution,Columbia,Signs; license plates; golf carts; flooring,plates,"4460 Broad River Rd, Columbia, SC 29210",-81.11713264,34.06668417
+South Carolina,State,Evans Correctional Institution,Bennettsville,Cable; wiring,none,"610 Highway 9 West, Bennettsville, SC 29512",-79.71081156,34.65224701
+South Carolina,State,Headquarters,Columbia,Microfilm; framing; printing,none,"4444 Broad River Road, Columbia, SC 29210",-81.11703787,34.06653718
+South Carolina,State,Kershaw Correctional Institution,Kershaw,Flooring,none,"4848 Goldmine Highway, Kershaw, SC 29067",-80.54556387,34.59277701
+South Carolina,State,Leath Correctional Institution,Greenwood,Textiles; apparel,clothing,"2809 Airport Rd, Greenwood, SC 29649",-82.14630229,34.24925308
+South Carolina,State,Lee Correctional Institution,Bishopville,Textiles; plastics reclaim; mattress work,recycle,"990 Wisacky Hwy, Bishopville, SC 29010",-80.22127542,34.20118717
+South Carolina,State,Lieber Correctional Institution,Ridgeville,Textiles; retreads,none,"136 Wilborn Avenue, Ridgeville, SC 29472",-80.28824598,33.08582046
+South Carolina,State,Livesay Correctional Institution,Spartanburg,Flooring,none,"104 Broadcast Drive, Spartanburg, SC 29303",-81.98711557,34.9774529
+South Carolina,State,MacDougall Correctional Institution,Ridgeville,Forestry,none,"1516 Old Gilliard Road, Ridgeville, SC 29472",-80.29622382,33.16878412
+South Carolina,State,Manning Correctional Institution,Columbia,Vision metering,none,"502 Beckman Drive, Columbia, SC 29203",-80.98866611,34.08353371
+South Carolina,State,McCormick Correctional Institution,McCormick,Modular work; upholstery,furniture,"386 Redemption Way, McCormick, SC 29899",-82.25511263,33.92267574
+South Carolina,State,Perry Correctional Institution,Pelzer,Wood products,none,"430 Oaklawn Rd, Pelzer, SC 29669",-82.33569349,34.66062726
+South Carolina,State,Ridgeland Correctional Institution,Ridgeland,Plastics reclaim,recycle,"5 Correctional Road, Ridgeland, SC 29936",-80.96549099,32.49706144
+South Carolina,State,Tyger River Correctional Institution,Enoree,Flooring,none,"100-200 Prison Road, Enoree, SC 29355",-81.82489234,34.71353621
+South Dakota,State,Mike Durfee State Prison,Springfield,Clothing; blankets; sheets; towels,clothing,"1412 Wood St, Springfield, SD 57062",-97.90162025,42.8606451
+South Dakota,State,South Dakota State Penitentiary,Sioux Falls,Upholstery; carpentry; license plates; print shop; sign shop,"furniture,plates","1600 North Drive, Sioux Falls, SD 57117",-96.72411612,43.56679139
+South Dakota,State,South Dakota Women's Prison,Pierre,Data entry,none,"3200 East Highway 34, Pierre, SD 57501",-100.3010547,44.35454177
+Tennessee,State,Bledsoe County Correctional Complex ,Pikeville,Flooring; agriculture; dairy farm,food,"1045 Horsehead Road, Pikeville, Tennessee 37367",-85.2510506,35.73780334
+Tennessee,State,Mark H. Luttrell Correctional Center,Memphis,Packaging services,none,"6000 State Road, Memphis, Tennessee 38134",-89.85959613,35.1543927
+Tennessee,State,Morgan County Correctional Complex,Wartburg,Apparel manufacturing; textiles manufacturing,clothing,"541 Wayne Cotton Morgan Drive, Wartburg, Tennessee 37887",-84.53896205,36.11005542
+Tennessee,State,Northeast Correctional Complex,Mountain City,Flooring,none,"5249 Highway 67 West, Mountain City, Tennessee 37683-5000",-81.88694055,36.45190021
+Tennessee,State,Northwest Correctional Complex,Tiptonville,Packaging services,none,"960 State Route 212, Tiptonville, Tennessee 38079",-89.45220889,36.4141506
+Tennessee,State,Riverbend Maximum Security Institution,Nashville,Data entry,none,"7475 Cockrill Bend Boulevard, Nashville, Tennessee 37243-0471",-86.89818006,36.18397612
+Tennessee,State,South Central Correctional Facility,Clifton,Printing,none,"555 Forest Avenue, Clifton, Tennessee 38425-0279",-88.0013121,35.36780434
+Tennessee,State,Tennessee Prison for Women,Nashville,Call center; document imaging,call-center,"3881 Stewarts Lane, Nashville, Tennessee 37243-0468",-86.86199474,36.19800511
+Tennessee,State,Turney Center Industrial Complex,Only,Institutional cleaning products; flooring,none,"1499 R.W. Moore Memorial Highway, Only, Tennessee 37140-4050",-87.69111947,35.83044558
+Tennessee,State,West Tennessee State Penitentiary,Henning,Apparel manufacturing; textiles manufacturing; agriculture; row crops,"clothing,food","480 Green Chapel Road, Henning, Tennessee 38041-1150",-89.74584538,35.67416642
+Tennessee,Federal,FCI Memphis,Memphis,Electronics; fleet management,none,"1101 JOHN A DENIE ROAD, MEMPHIS, TN  38134",-89.86422133,35.15544674
+Texas,State,Alfred D. Hughes Unit,Gatesville,Socks; K-9 bite suits; jackets; quilting; drapery; utility belts,clothing,"3201 FM 929, Gatesville, TX 76597 ",-97.70074565,31.4788592
+Texas,State,Allan B. Polunsky Unit,Livingston,Cardboard boxes; file boxes; file folders,none,"3872 FM 350 South, Livingston, TX 77351 ",-95.01290685,30.69432416
+Texas,State,Clarence N. Stevenson Unit,Cuero,Office furniture,furniture,"1525 FM 766, Cuero, TX 77954 ",-97.30296057,29.13069191
+Texas,State,Daniel Webster Wallace Unit,Colorado City,Clothing; napkins; sheets,clothing,"1675 South FM 3525, Colorado City, TX 79512 ",-100.8775621,32.40436848
+Texas,State,Darrington Unit,Rosharon,Tire retreading; protective kits; mop handles,none,"59 Darrington Road, Rosharon, TX 77583",-95.48148157,29.39268052
+Texas,State,Eastham Unit,Lovelady,Clothes; towels,clothing,"2665 Prison Road #1, Lovelady, TX 75851 ",-95.44549589,31.12631392
+Texas,State,French Robertson Unit,Abilene,Clothing such as offender shorts; shirts; pants; caps,clothing,"12071 FM 3522, Abilene, TX 79601",-99.63629895,32.56215286
+Texas,State,George Beto Unit,Tennessee Colony,Highway and street signs,none,"1391 FM 3328, Tennessee Colony, TX 75880",-95.82707464,31.76085416
+Texas,State,Gib Lewis Unit,Woodville,Furniture and woodshop,furniture,"777 FM 3497, Woodville, TX 75990 ",-94.3957604,30.79335444
+Texas,State,H. H. Coffield Unit,Tennessee Colony,Furniture; lockers; security doors; fish fryers; lighting fixtures,furniture,"2661 FM 2054, Tennessee Colony, TX 75884",-95.88783166,31.80593942
+Texas,State,Hilltop Unit,Gatesville,Clothing; aprons; Texas flags; U.S. flags; sheets,clothing,"1500 State School Road, Gatesville, TX 76598-2996",-97.74181875,31.4631916
+Texas,State,Huntsville Unit,Huntsville,Textile mill for yarn; patches; embroidery; screen printing,none,"815 12th Street, Huntsville, TX 77348 ",-95.54766771,30.72297263
+Texas,State,"James ""Jay"" H. Byrd Unit",Huntsville,Warehousing and distribution,none,"21 FM 247, Huntsville, TX 77320",-95.54970137,30.73721299
+Texas,State,Jim Ferguson Unit,Midway,Brooms; brushes; mops; leather products,none,"12120 Savage Drive, Midway, TX 75852",-95.70645191,30.95939375
+Texas,State,John M. Wynne Unit,Huntsville,License plates; mattresses; pillows; signs; plaques; laser engraving,"plates,metal","810 FM 2821, Huntsville, TX 77349",-95.57670739,30.73639211
+Texas,State,L.V. Hightower Unit,Dayton,Officer and commissary clothing,clothing,"902 FM 686, Dayton, TX 77535",-94.93461574,30.10010235
+Texas,State,Louis C. Powledge Unit,Palestine,Metal fabrication; chain link fencing; tarps; barbed wire; water tanks,metal,"1400 FM 3452, Palestine, TX 75803 ",-95.78663303,31.74551514
+Texas,State,Mountain View Unit,Gatesville,Braille,none,"2305 Ransom Road, Gatesville, TX 76528",-97.72495911,31.486672
+Texas,State,O.B. Ellis Unit,Huntsville,Chairs; clothing; repairs for buses; fire trucks and other vehicles,"clothing,furniture","1697 FM 980, Huntsville, TX 77343 ",-95.45872422,30.87050306
+Texas,State,O.L. Luther Unit,Navasota,Stainless steel fixtures; kitchen equipment; bleachers; shower stalls,none,"1800 Luther Drive, Navasota, TX 77868 ",-96.05931995,30.26402761
+Texas,State,Preston E. Smith Unit,Lamesa,Mattresses; pillows; offender boxers,none,"1313 CR 19, Lamesa, TX 79331-1898 ",-101.980313,32.71839138
+Texas,State,Ruben M. Torres Unit,Hondo,Print shop for brochures; booklets; envelopes; business cards; stationary,none,"125 Private Road 4303, Hondo, TX 78861 ",-99.14110694,29.3475618
+Texas,State,T.L. Roach Unit,Childress,Soaps; detergents; lotions; body wash,none,"15845 FM 164, Childress, TX 79201",-100.2539868,34.42445869
+Texas,State,TCI Austin Distribution Center,Austin,Warehousing and distribution,none,"8801 S 1st St, Austin, TX 78748",-97.79852499,30.17544404
+Texas,State,W. F. Ramsey Unit,Rosharon,Furniture refinishing; upholstery; auditorium refurbishing,furniture,"1100 FM 655, Rosharon, TX 77583 ",-95.4684925,29.30230329
+Texas,State,"W. J. ""Jim"" Estelle Unit",Huntsville,Textile mill,none,"264 FM 3478, Huntsville, TX 77320-3320 ",-95.5016435,30.88122241
+Texas,State,William G. McConnell Unit,Beeville,Clothing such as offender boxers; shirts; pants,clothing,"3001 South Emily Drive, Beeville, TX 78102 ",-97.72172135,28.37307089
+Texas,State,William P. Clements Unit,Amarillo,Shoes and blankets,clothing,"9601 Spur 591, Amarillo, TX 79107-9606 ",-101.7362892,35.23650645
+Texas,State,William P. Hobby Unit,Marlin,Print shop for brochures; booklets; envelopes; business cards; forms,none,"742 FM 712, Marlin, TX 76661 ",-96.91333906,31.25653294
+Texas,Federal,FCC Beaumont,Beaumont,Clothing; textiles,clothing,"5560 Knauth Rd, Beaumont, TX 77705",-94.07739718,29.96520547
+Texas,Federal,FCI Bastrop,Bastrop,Electronics; fleet management,none,"1341 HIGHWAY 95 NORTH, BASTROP, TX  78602",-97.31506902,30.18655664
+Texas,Federal,FCI Fort Worth,Fort Worth,Recycling collection,recycle,"3150 HORTON ROAD, FORT WORTH, TX  76119",-97.28558097,32.68318837
+Texas,Federal,FCI La Tuna,Anthony,Electronics; fleet management,none,"8500 DONIPHAN ROAD, ANTHONY, TX  79821",-106.6050529,31.9832516
+Texas,Federal,FCI Seagoville,Seagoville,Clothing; textiles,clothing,"2113 NORTH HWY 175, SEAGOVILLE, TX  75159",-96.56535897,32.65787801
+Texas,Federal,FCI Texarkana,Texarkana,Electronics recycling; services,recycle,"4001 LEOPARD DRIVE, TEXARKANA, TX  75501",-94.09202899,33.37811488
+Texas,Federal,FPC Bryan,Bryan,Services,none,"1100 URSULINE AVENUE, BRYAN, TX  77803",-96.36183121,30.67595839
+Utah,State,Utah State Prison ,Draper,License plates; print shop; greenhouse; furniture; upholstery; culinary; document scanning; data entry; construction; beverage packaging,"plates,furniture,food","14425 Bitterbrush Ln, Draper, UT 84020",-111.894243,40.499695
+Utah,State,Central Utah Correctional Facility,Gunnison,Sewing; embroidery; signage; culinary,food,,-111.807797,39.162984
+Vermont,State,Chittenden Regional Correctional Facility,South Burlington,Textiles,none,"7 Farrell St, South Burlington, VT 05403",-73.20447889,44.44626419
+Vermont,State,Northern State Correctional Facility,Newport,Printing; signs; call center; furniture,"call-center,furniture","2559 Glen Rd, Newport, VT 05855",-72.19366962,44.90558216
+Vermont,State,Northwest State Correctional Facility,Swanton,Small engine repair,none,"3649 Lower Newton Rd, Swanton, VT 05488",-73.14088759,44.8547092
+Vermont,State,Southeast State Correctional Facility,Windsor,License plates,plates,"546 State Farm Road, Windsor, VT 05089",-72.42632454,43.50109697
+Virginia,State,Augusta Correctional Center,Craigsville,Clothing; shoes,clothing,"1821 Estaline Valley Rd, Craigsville, VA 24430",-79.36899762,38.05802764
+Virginia,State,Buckingham Correctional Center,Dillwyn,Metal; paint; systems,metal,"1349 Correctional Center Rd, Dillwyn, VA 23936",-78.47455941,37.56398886
+Virginia,State,Coffeewood Correctional Center,Mitchells,Wood,none,"12352 Coffeewood Dr, Mitchells, VA 22729",-78.02176572,38.36473357
+Virginia,State,Dillwyn Correctional Center,Dillwyn,Metal,metal,"1522 Prison Rd, Dillwyn, VA 23936",-78.47246712,37.57050615
+Virginia,State,Fluvanna Correctional Center for Women,Troy,Clothing; document conversion; Braille; optical,"clothing,optical","144 Prison Lane, Troy, VA 22974",-78.27032789,37.9847634
+Virginia,State,Greensville Correctional Center,Jarratt,Systems; wood,none,"901 Corrections Way, Jarratt, VA 23867",-77.47369808,36.79531801
+Virginia,State,Halifax Correctional Unit,South Boston,Clothing,clothing,"1200 Farm Rd, South Boston, VA",-78.93189257,36.72828089
+Virginia,State,Haynesville Correctional Center,Haynesville,Clothing; vehicle conversion,clothing,"421 Barnfield Rd, Haynesville, VA 22472",-76.66250964,37.95041069
+Virginia,State,Indian Creek Correctional Center,Chesapeake,Cleaning products,none,"801 Sanderson Rd, Chesapeake, VA 23322",-76.18322802,36.61644543
+Virginia,State,Lunenburg Correctional Center,Victoria,Wood,none,"690 Falls Rd, Victoria, VA 23974",-78.21350131,37.01816288
+Virginia,State,Nottoway Correctional Center,Burkeville,Wood,none,"2892 Schutt Rd, Burkeville, VA 23922",-78.18110888,37.18551715
+Virginia,State,Powhatan Correctional Center,Maidens,Print; silkscreen; license plates,plates,"3600 Woods Way, Maidens, VA 23160",-77.88309998,37.67163349
+Virginia,State,Sussex I State Prison,Waverly,Dentures,none,"24414 Musselwhite Dr, Waverly, VA 23891",-77.22714711,37.04079145
+Virginia,State,Sussex II State Prison,Waverly,Laundry,none,"24427 Mussellwhite Dr, Waverly, VA 23891",-77.22580881,37.04018064
+Virginia,State,Virginia Correctional Center for Women,Goochland,Laundry,none,"2841 River Rd W, Goochland, VA 23063",-77.88609389,37.67587222
+Virginia,Federal,FCI Petersburg,Hopewell,Services,none,"1060 RIVER ROAD, HOPEWELL, VA  23860",-77.34055413,37.29826832
+Virginia,Federal,USP Lee,Pennington Gap,Clothing; textiles,clothing,"Hickory Flats Rd, Pennington Gap, VA 24277",-83.00307779,36.71692221
+Washington,State,Airway Heights Corrections Center,Airway Heights,Food production; warehouse services; optical manufacturing; clothing; cardboard boxes; commissary; laundry; administrative services,"food,optical","11919 Sprague Ave, Airway Heights, WA 99001",-117.5776198,47.65726225
+Washington,State,Cedar Creek Corrections Center,Littlerock,Warehouse services; furniture; laundry; recycling,"furniture,recycle","12200 Bordeaux Rd SW, Littlerock, WA 98556",-123.0173686,46.90183825
+Washington,State,Clallam Bay Corrections Center,Clallam Bay,Warehouse services; clothing; administrative services; laundry ,clothing,"1830 Eagle Crest Way, Clallam Bay, WA 98326",-124.2859757,48.24176555
+Washington,State,Coyote Ridege Corrections Center,Connell,Clothing; food production; laundry,food,"1301 N Ephrata Ave, Connell, WA 99326",-118.8522096,46.67212617
+Washington,State,Larch Corrections Center,Yacolt,Laundry,none,"15314 NE Dole Valley Rd, Yacolt, WA 98675",-122.3396572,45.73380858
+Washington,State,Monroe Correctional Complex,Monroe,Commissary; printing and engraving; laundry; recycling,"metal,recycle","16700 177th Ave SE, Monroe, WA 98272",-121.9923168,47.84703845
+Washington,State,Olympic Corrections Center,Forks,Laundry,none,"11235 Hoh Mainline, Forks, WA 98331",-124.1374862,47.71667894
+Washington,State,Stafford Creek Corrections Center,Aberdeen,Administrative services; customer service center; furniture; laundry; warehouse services; tilapia fish farm,"furniture,food","191 Constantine Way, Aberdeen, WA 98520",-123.9167668,46.9287724
+Washington,State,Washington Corrections Center,Shelton,Distribution center; laundry,none,"2321 West Dayton Airport Road, Shelton, WA 98584",-123.2005857,47.23965227
+Washington,State,Washington Corrections Center for Women,Gig Harbor,Computer design services; screen printing; Braille services,none,"9601 Bujacich Rd. NW, Gig Harbor, WA 98332-8300",-122.6165493,47.3456864
+Washington,State,Washington State Light Industrial Park - Headquarters,Tumwater,Administrative services; warehouse services,none,"801 88th Ave SE, Tumwater, WA 98501",-122.8963498,46.95985174
+Washington,State,Washington State Penitentiary,Walla Walla,Metal products; recycling; warehouse services; field crops; laundry; recycling; composting; license plates,"food,plates,metal,recycle","1313 N 13th Ave, Walla Walla, WA 99362",-118.3564827,46.07958791
+West Virginia,State,Denmar Correctional Center,Hillsboro,Inmate clothing,clothing,"4319 Denmar Road, Hillsboro,WV 24946",-80.22720354,38.08245299
+West Virginia,State,Huttonsville Correctional Center,Huttonsville,Furniture; Braille,furniture,"38.694413, -79.979618",-79.979618,38.694413
+West Virginia,State,Lakin Correctional Center,West Columbia,Inmate clothing,clothing,"11264 Ohio River Rd, West Columbia, WV 25287",-82.06626074,38.98179282
+West Virginia,State,Mount Olive Correctional Complex,Mt Olive,License plates; signs; soap,plates,"1 Mountainside Way, Mt Olive, WV 25185",-82.06869701,38.52468188
+West Virginia,State,Northern Correctional Facility,Moundsville,Printing,none,"112 Northern Regional Correctional Drive, Moundsville, WV 26041",-80.74666696,39.91856337
+West Virginia,State,Pruntytown Correctional Center,Grafton,Soap; seating,none,"2006 Trap Springs Rd, Grafton, WV 26354",-80.02489664,39.34119267
+West Virginia,State,St. Marys Correctional Center,St Marys,Embroidery; mattresses,none,"2880 N Pleasants Hwy, St Marys, WV 26170",-81.17298944,39.43052628
+West Virginia,Federal,FCI Beckley,Beaver,Office furniture,furniture,"1600 INDUSTRIAL ROAD, BEAVER, WV  25813",-81.07058802,37.76854005
+West Virginia,Federal,FCI Gilmer,Glenville,Electronics; fleet management,none,"201 FCI LANE, GLENVILLE, WV  26351",-80.78220962,38.91670791
+Wisconsin,State,Columbia Correctional Institution,Portage,Printing,none,"2925 Columbia Drive, Portage, WI 53901-0950",-89.49194635,43.56396879
+Wisconsin,State,Fox Lake Correctional Institution,Fox Lake,Wood furniture,furniture,"W10237 Lake Emily Road, Fox Lake, WI 53933-0147",-88.914933,43.61926958
+Wisconsin,State,Green Bay Correctional Institution,Green Bay,Textiles; embroidery,none,"2833 Riverside Drive, Green Bay, WI 54307-9033",-88.03969729,44.47254003
+Wisconsin,State,Jackson Correctional Institution,Black River Falls,Signage,none,"N6500 Haipek Road, Black River Falls, WI 54615-0232",-90.79661419,44.3059878
+Wisconsin,State,John C. Burke Correctional Center,Waupun,Warehousing; distribution,none,"900 S. Madison St., Waupun, WI 53963-0900",-88.7354277,43.61840283
+Wisconsin,State,New Lisbon Correctional Institution,New Lisbon,Sign recycling,recycle,"2000 Progress Road, New Lisbon, WI 53950-2000",-90.13752405,43.88038249
+Wisconsin,State,Oakhill Correctional Institution,Oregon,Upholstery; dairy cows; crops,"food,furniture","5212 County Hwy. M, Oregon, WI 53575-0140",-89.40261374,42.95033512
+Wisconsin,State,Oshkosh Correctional Institution,Oshkosh,Laundry,none,"1730 W. Snell Road, Oshkosh, WI 54903-3530 ",-88.55777101,44.06824662
+Wisconsin,State,Redgranite Correctional Institution,Redgranite,Wheelchair and computer recycling,recycle,"1006 County Road EE, Redgranite, WI 54970",-89.10480818,44.05400015
+Wisconsin,State,Stanley Correctional Institution,Stanley,Signage,none,"100 Corrections Drive, Stanley, WI 54768-6500 ",-90.95215962,44.94444978
+Wisconsin,State,Waupun Correctional Institution,Waupun,Metal furniture; license plates,"furniture,plates,metal","200 S. Madison St., Waupun, WI 53963-0351",-88.72979862,43.62968931
+Wyoming,State,Wyoming Honor Conservation Camp ,Newcastle,Specialty sewing; license plates,plates,"40 Pippin Rd, Newcastle, WY 82701",-104.1817326,43.88154694
+Wyoming,State,Wyoming Medium Correctional Institution ,Torrington,Sewing shop; Braille; embroidery; janitorial supplies; business support office,none,"7076 Road 55F, Torrington, WY 82240",-104.1152475,42.07119128
+Wyoming,State,Wyoming State Penitentiary ,Rawlins,Engraving; print shop; garment factory,"clothing,metal","2900 S Higley Blvd, Rawlins, WY 82301",-107.2213525,41.77039797
+Wyoming,State,Wyoming Women's Center ,Lusk,Sewing shop; aquaculture; data entry; laundry,none,"1000 W Griffith Blvd, Lusk, WY 82225",-104.4546259,42.76552044

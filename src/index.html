@@ -1,0 +1,63 @@
+<%
+var wa = csv.USPrisons.filter(function(p) { return p.state == "Washington" });
+var industries = {};
+wa.forEach(function(p) {
+  p.x *= 1;
+  p.y *= 1;
+  p.industries = p.industries
+    .toLowerCase()
+    .split(/;\s*/)
+    .map(function(w) {
+      return w.replace(/^\w/g, function(match) { return match.toUpperCase() });
+    });
+  p.industries.forEach(function(industry) {
+    if (!industries[industry]) {
+      industries[industry] = [];
+    }
+    industries[industry].push(p.name);
+  });
+});
+var collected = {
+  prisons: wa,
+  industries: industries
+};
+%><!doctype html>
+<html>
+  <head>
+    <title><%= json.project.title %></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body is="responsive-child">
+
+    <div class="map-container">
+      <leaflet-map class="washington">
+        <tile-layer layer="background"></tile-layer>
+        <map-options>
+{
+  "attributionControl": false,
+  "minZoom": 6,
+  "scrollWheelZoom": false,
+  "zoomControl": false
+}
+        </map-options>
+      </leaflet-map>
+    </div>
+
+    <ul class="industry-list">
+      <% var list = Object.keys(industries).sort(); list.forEach(function(industry) { %>
+        <li data-industry="<%= industry %>"><%= industry %> (<%= industries[industry].length %>)
+      <% }) %>
+    </ul>
+
+    <p class="credits">
+      Map tiles by <a href="http://stamen.com/">Stamen Design</a> under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org/">OpenStreetMap</a> under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.
+
+    <script>
+window.prisonData = <%= JSON.stringify(collected) %>;
+
+    </script>
+    <script src="app.js"></script>
+  </body>
+</html>
