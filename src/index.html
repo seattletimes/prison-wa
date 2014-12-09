@@ -8,7 +8,7 @@ wa.forEach(function(p) {
     .toLowerCase()
     .split(/;\s*/)
     .map(function(w) {
-      return w.replace(/^\w/g, function(match) { return match.toUpperCase() });
+      return w.replace(/^\w/g, function(match) { return match.toUpperCase() }).trim();
     });
   p.industries.forEach(function(industry) {
     if (!industries[industry]) {
@@ -47,7 +47,7 @@ var collected = {
 
     <ul class="industry-list">
       <% var list = Object.keys(industries).sort(); list.forEach(function(industry) { %>
-        <li data-industry="<%= industry %>"><%= industry %> (<%= industries[industry].length %>)
+        <li data-industry="<%= industry %>"><%= industry %> <span class="count"><%= industries[industry].length %></span>
       <% }) %>
     </ul>
 
