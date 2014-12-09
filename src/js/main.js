@@ -48,7 +48,7 @@ window.prisonData.prisons.forEach(function(prison) {
   });
   marker.data = prison;
   prison.marker = marker;
-  var content = "<h2>" + prison.name + "</h2><p>Industries: " + prison.industries.join(", ").toLowerCase();
+  var content = "<h2>" + prison.name + "</h2>\n<ul>\n<li>" + prison.industries.join("\n<li>") + "</ul>";
   marker.bindPopup(L.popup({
     closeButton: false
   }).setContent(content));

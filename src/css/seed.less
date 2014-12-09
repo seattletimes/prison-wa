@@ -10,10 +10,17 @@
 @landscape-tablet: ~"(max-width: 1024px)";
 @wide: ~"(min-width: 1200px)";
 
+@serif: Georgia, Times, serif;
+@sans-serif: Helvetica, Arial, sans-serif;
+@thin: 'Yanone Kaffeesatz', sans-serif;
+//@block: 'Merriweather', serif;
+@block: 'Merriweather Sans', sans-serif;
+
 body {
   width: 100%;
   margin: 0;
   font-family: sans-serif;
+  position:relative;
 
   &::after {
     clear: both;
@@ -53,7 +60,7 @@ body {
   }
 
   .prison-marker {
-    background: red;
+    background: #555;
     color: white;
     height: 30px;
     width: 30px;
@@ -64,10 +71,31 @@ body {
     text-align: center;
     font-weight: bold;
     border-radius: 100%;
+    font-family: @block;
 
     &.selected {
+      background: red;
       border: 2px solid black;
       line-height: 26px;
+    }
+  }
+
+  .leaflet-popup {
+    font-family: @thin;
+    font-size: 16px;
+
+    h2 {
+      font-family: @block;
+      font-size: 18px;
+      margin: 0 0 4px;
+      text-align: center;
+      border-bottom: 1px solid #888;
+    }
+
+    ul {
+      padding-left: 10px;
+      margin: 0;
+      list-style-position: inside;
     }
   }
 }
@@ -76,11 +104,12 @@ body {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  color: #555;
+  color: #888;
+  font-family: @block;
 
   .activated() {
-    font-weight: bold;
-    color: black;
+    // font-weight: bold;
+    color: darken(red, 30%);
   }
 
   @media @wide {
@@ -141,4 +170,8 @@ body {
 
 .credits {
   clear: both;
+  font-family: @thin;
+  font-size: 14px;
+  text-align: right;
+  margin: 0;
 }
