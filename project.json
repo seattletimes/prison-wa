@@ -1,12 +1,12 @@
 {
   "s3": {
     "stage": {
-      "bucket": "",
-      "path": ""
+      "bucket": "apps-stage.seattletimesdata.com",
+      "path": "traumatic-cleanup/wa-map"
     },
     "live": {
-      "bucket": "",
-      "path": ""
+      "bucket": "projects.seattletimes.com",
+      "path": "2014/sell-block/wa-map"
     }
   },
   "title": "",
