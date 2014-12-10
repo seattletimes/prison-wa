@@ -7,7 +7,7 @@ var qsa = function(s) { return Array.prototype.slice.call(document.querySelector
 
 var mapElement = document.querySelector("leaflet-map.washington");
 
-var faded = .7;
+var faded = .8;
 var waBounds = [
   [49.01, -124.90],
   [45.54, -116.84]
@@ -40,10 +40,12 @@ window.prisonData.prisons.forEach(function(prison) {
   var marker = L.marker([prison.y, prison.x], {
     riseOnHover: true,
     icon: L.divIcon({
-      className: "prison-marker",
+      className: "prison-marker count-" + Math.ceil(prison.industries.length / 3),
       iconSize: [30, 30],
-      html: prison.industries.length
+      html: prison.industries.length,
     }),
+    alt: prison.name,
+    title: prison.name,
     opacity: faded
   });
   marker.data = prison;

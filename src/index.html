@@ -32,9 +32,16 @@ var collected = {
   </head>
   <body is="responsive-child">
 
+    
+
     <div class="map-container">
+      <ul class="key">
+        <li> <span class="low spot"></span> 1-3 industries
+        <li> <span class="medium spot"></span> 4-6 industries
+        <li> <span class="high spot"></span> 6+ industries
+      </ul>
       <leaflet-map class="washington">
-        <tile-layer layer="background"></tile-layer>
+        <tile-layer layer="lite"></tile-layer>
         <map-options>
 {
   "attributionControl": false,
@@ -53,7 +60,7 @@ var collected = {
     </ul>
 
     <p class="credits">
-      Map tiles by <a href="http://stamen.com/">Stamen Design</a> under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org/">OpenStreetMap</a> under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.
+      Map tiles by <a href="http://stamen.com/">Stamen Design</a> under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>.<br>Data by <a href="http://openstreetmap.org/">OpenStreetMap</a> under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.
 
     <script>
 window.prisonData = <%= JSON.stringify(collected) %>;
