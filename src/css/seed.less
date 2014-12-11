@@ -16,9 +16,12 @@
 //@block: 'Merriweather', serif;
 @block: 'Merriweather Sans', sans-serif;
 
-@low: #F2B57E;
-@medium: #DE5D3F;
-@high: #AE2E30;
+@blue: #09334B;
+@red: #C20D00;
+
+@low: @red;
+@medium: #760800;
+@high: #290300;
 
 body {
   width: 100%;
@@ -32,6 +35,10 @@ body {
     height: 0;
     width: 0;
     display: block;
+  }
+
+  a {
+  color: @blue;
   }
 }
 
@@ -91,8 +98,8 @@ body {
     }
 
     &.selected, &:hover {
-      background: darken(red, 10%);
-      border: 2px solid darken(red, 30%);
+      background: black;
+      border: 2px solid black;
       line-height: 26px;
     }
   }
@@ -126,7 +133,8 @@ body {
 
   .activated() {
     // font-weight: bold;
-    color: darken(red, 30%);
+    color: white;
+    background: #222;
   }
 
   @media @wide {
