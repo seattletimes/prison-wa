@@ -13,8 +13,8 @@ var waBounds = [
   [45.54, -116.84]
 ];
 var maxBounds = [
-  [52, -129],
-  [45, -112]
+  [60, -134],
+  [45, -108]
 ];
 
 var markers = {};
@@ -52,7 +52,8 @@ window.prisonData.prisons.forEach(function(prison) {
   prison.marker = marker;
   var content = "<h2>" + prison.name + "</h2>\n<ul>\n<li>" + prison.industries.join("\n<li>") + "</ul>";
   marker.bindPopup(L.popup({
-    closeButton: false
+    closeButton: false,
+    maxWidth: 280
   }).setContent(content));
   marker.on("mouseover", onEnter);
   marker.on("mouseout", onExit);
